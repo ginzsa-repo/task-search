@@ -1,4 +1,4 @@
-# taske-search-optimizer
+# task-search-optimizer
 
-(based on bico data)
+(tabu search based on bico data)
 Initial python version of tagged project (not finished) 
