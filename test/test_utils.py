@@ -40,17 +40,28 @@ class TestUtils(unittest.TestCase):
         self.assertEqual(item['destinationSpId'], to)
 
 
+  def test_create_distance_matrix_from_json_file_use_mapping(self):
+    distance_mapper = {'origin': 'originSpId', 'destination':'destinationSpId', 'items_path': 'spDMResult/items'}
+    distances = utils.create_distance_matrix_from_json_file_mapper(distance_mapper, test_data_distance)
+    self.assertTrue(distances is not None)
+    self.assertTrue(len(distances.keys()) > 0)
+
+    for frm in distances.keys():     
+      for to in distances[frm].keys():
+        item = distances[frm][to]
+        self.assertEqual(item['originSpId'], frm)
+        self.assertEqual(item['destinationSpId'], to)
+
+
   def test_clone_pre_post_to_jobs(self):
     # given this jobs and new job to add
     all_jobs = [('DOCK_A', 3), ('DOCK_B', 4), ('DOCK_C', 6), ('DOCK_D', 1)]
     new_job = ('DOCK_F', 1)
 
     # when jobs pre and post addition are cloned
-    pre, post = utils.clone_pre_post_to_jobs(4, all_jobs, new_job)
+    post = utils.clone_pre_post_to_jobs(4, all_jobs, new_job)
 
-    # then pre should hold the same jobs as all jobs and post should include the job added
-    self.assertEqual(len(pre), 4)
-    self.assertEqual(len(all_jobs), len(pre))
+    # then post should include the job added
     self.assertEqual(len(post), 5)
     self.assertTrue(post[4] == new_job)
 
@@ -65,20 +76,28 @@ class TestUtils(unittest.TestCase):
 
     # when a solution is constructed and all jobs are added
     solution = Solution(all_jobs, teams)
-    team_index = 0
         
     for j in all_jobs:
-      solution.add_job(j,0)
+      solution.add_job(j,team.id)
 
     # and when jobs pre and post addition are cloned from given solution
-    pre, post = utils.clone_pre_post_jobs(solution, 4, new_job, team_index)
+    post = utils.clone_pre_post_jobs(solution, 4, new_job, team.id)
 
     # then pre should hold the same jobs as all jobs and post should include the job added
-    self.assertEqual(len(pre), 4)
-    self.assertEqual(len(all_jobs), len(pre))
     self.assertEqual(len(post), 5)
     self.assertTrue(post[4] == new_job)
       
+
+  def test_path_navigate_to_object(self):
+    # given the following dict
+    result_value = 3
+    a = {'a':'1', 'b': {'c':'2','d':{'f':result_value}}}
+
+    # when a path navigation to b/d/f'
+    rs = utils.path_navigate_to_object(a, 'b/d/f')
+
+    # then rs should be result_value
+    self.assertTrue(rs == result_value)
 
 
 if __name__ == '__main__':
