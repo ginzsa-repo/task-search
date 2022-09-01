@@ -111,7 +111,8 @@ def there_is_a_job(number_of_bikes):
 
 def load_distances_matrix():
     test_data_distance = './test/data/ba/distances.json'
-    matrix = utils.create_distance_matrix_from_json_file(test_data_distance)
+    distance_mapper = {'origin': 'originSpId', 'destination':'destinationSpId', 'items_path': 'spDMResult/items'}
+    matrix = utils.create_distance_matrix_from_json_file_mapper(distance_mapper, test_data_distance)
     return matrix
 
 def get_vehicle():
