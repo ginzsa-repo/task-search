@@ -1,6 +1,6 @@
 
 from utils import clone_pre_post_jobs
-from travel_calculator import total_travel_time_in_sec, sum_no_bikes_except_last_job, calculate_total_time_in_seconds, max_single_travel_time_in_sec
+from travel_calculator import total_travel_time_in_sec, sum_no_items_except_last_job, calculate_total_time_in_seconds, max_single_travel_time_in_sec
 import logging
 
 logger = logging.getLogger()
@@ -50,9 +50,9 @@ def is_journey_capacity_within_constrains(solution):
     return True
 
 def is_journey_capacity_within_vehicle_constrain(jobs, vehicle):
-    no_bikes_so_far = sum_no_bikes_except_last_job(jobs)
-    logger.debug('no of bikes so far {}, vehicle capacity: {}'.format(no_bikes_so_far, vehicle.capacity))
-    return  no_bikes_so_far <= vehicle.capacity
+    no_items_so_far = sum_no_items_except_last_job(jobs)
+    logger.debug('no of items so far {}, vehicle capacity: {}'.format(no_items_so_far, vehicle.capacity))
+    return  no_items_so_far <= vehicle.capacity
     
 '''
 validates that jorney's time is within the team's vehicle time constrains

@@ -80,7 +80,7 @@ class TestValidation(unittest.TestCase):
         # given a team with a vehicle assigned to it
         team = get_team()
 
-        # when validate distances for vehicle jobs in test data (note: total 21 bikes!)
+        # when validate distances for vehicle jobs in test data (note: total 21 items!)
         jobs = [('DOCK_328', 10), ('DOCK_210', 4), ('DOCK_60', 6), ('DOCK_267', 1)]
         jobs_seq = JobsSequence(jobs=jobs, start=None, end=None)
 
@@ -110,7 +110,7 @@ class TestValidation(unittest.TestCase):
         distances = Distances(distances=matrix)
         vehicle = get_vehicle()
         # create team with big single journey time to comply with distance test data
-        team = Team(vehicle=vehicle, time_available_sec=25200, max_single_journey_time_sec=18000, starting_bikes_on_board=0)
+        team = Team(vehicle=vehicle, time_available_sec=25200, max_single_journey_time_sec=18000, starting_items_on_board=0)
         
         # when validate distances for vehicle jobs in real test data
         jobs = [('DOCK_11', 1), ('DOCK_280', 4), ('DOCK_399', 4), ('DOCK_301', 13), ('DOCK_155',13)]
@@ -126,7 +126,7 @@ class TestValidation(unittest.TestCase):
         distances = Distances(distances=matrix)
         vehicle = get_vehicle()
         # create team with big single journey time to comply with distance test data
-        team = Team(vehicle=vehicle, time_available_sec=300, max_single_journey_time_sec=9303.673, starting_bikes_on_board=0) 
+        team = Team(vehicle=vehicle, time_available_sec=300, max_single_journey_time_sec=9303.673, starting_items_on_board=0) 
         
         # when validate distances for vehicle jobs in test data
         jobs = [('DOCK_328', 3), ('DOCK_210', 4), ('DOCK_60', 6), ('DOCK_267', 1)]
@@ -145,7 +145,7 @@ class TestValidation(unittest.TestCase):
 
         vehicle = get_vehicle()
         # create team with big total journey time to comply with distance test data
-        team = Team(vehicle=vehicle, time_available_sec=9493.673, max_single_journey_time_sec=9303.673, starting_bikes_on_board=0) 
+        team = Team(vehicle=vehicle, time_available_sec=9493.673, max_single_journey_time_sec=9303.673, starting_items_on_board=0) 
         
         # when validate distances for vehicle jobs in test data
         jobs = [('DOCK_328', 3), ('DOCK_210', 4), ('DOCK_60', 6), ('DOCK_267', 1)]
@@ -164,7 +164,7 @@ class TestValidation(unittest.TestCase):
 
         vehicle = get_vehicle()
         # create team with big total journey time to comply with distance test data
-        team = Team(vehicle=vehicle, time_available_sec=25200, max_single_journey_time_sec=18000, starting_bikes_on_board=0) 
+        team = Team(vehicle=vehicle, time_available_sec=25200, max_single_journey_time_sec=18000, starting_items_on_board=0) 
         
         # when validate distances for vehicle jobs in test data
         jobs = [('DOCK_101', 3), ('DOCK_280', 4), ('DOCK_399', 4), ('DOCK_301', 13), ('DOCK_155', 13)]

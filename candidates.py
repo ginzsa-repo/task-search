@@ -60,7 +60,8 @@ def build_solution_candidate(candidate_store, best_solution):
         update_candidates_store_for_solution(candidate_store, team, best_solution)
  
 '''
-jobs is list of dock id, no of broken bikes touples ' ('DOCK_0', 0) '
+jobs is list of tuples: location id and a value representing a specific number of items (for a job) 
+in our example docking station id and number of broken bikes ' ('DOCK_0', 0) '
 '''
 class CandidateStore:
     def __init__(self, *args, **kwargs):

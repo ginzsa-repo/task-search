@@ -10,7 +10,7 @@ from model import Solution
 import utils
 
 
-test_data_location = './test/data/ba/lockedinbikes-2019-08-28--23-00.json'
+test_data_location = './test/data/ba/lockedinitems-2019-08-28--23-00.json'
 test_data_distance = './test/data/ba/distances.json'
 
 class TestUtils(unittest.TestCase):

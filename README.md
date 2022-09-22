@@ -1,6 +1,6 @@
 # task-search-optimizer
 
-Self contained TABU search algorithm implementation (bico data)
+Self contained TABU search algorithm implementation (broken bikes data)
 Initial python version of task search optimizer project (not finished) 
 
 

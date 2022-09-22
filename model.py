@@ -20,7 +20,7 @@ class Team:
         self.vehicle = kwargs.get('vehicle', None)
         self.time_available_sec = kwargs.get('time_available_sec', None) 
         self.max_single_journey_time_sec = kwargs.get('max_single_journey_time_sec', None) 
-        self.starting_bikes_on_board = kwargs.get('starting_bikes_on_board', None) 
+        self.starting_items_on_board = kwargs.get('starting_items_on_board', None) 
         self.allowed_end_depot = ['DEPOT_1']
         self.id = str(uuid.uuid4())
         self.start_depo = kwargs.get('start_depo', self.allowed_end_depot[0])
@@ -60,7 +60,7 @@ class TeamJobs:
             self.jobs_seq = JobsSequence(jobs_seq=jbs_seq, team=self.team)
 
 '''
-jobs is list of dock id, no of broken bikes touples ' ('DOCK_0', 0) '
+jobs is list of dock id, no of items touples ' ('DOCK_0', 0) '
 '''
 class Solution:
     def __init__(self, jobs, teams):

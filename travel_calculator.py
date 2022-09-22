@@ -71,22 +71,22 @@ def calc_stopping_time_seconds(jobs_seq, vehicle):
 return time in seconds, corresponding to the sum of time taken to handle each job 
 '''
 def calc_load_time_seconds(jobs_seq, vehicle):
-    return total_no_bikes(jobs_seq, vehicle) * vehicle.avg_load_time_sec
+    return total_no_items(jobs_seq, vehicle) * vehicle.avg_load_time_sec
 
 '''
 return the minimum value betwee:
-    sum number of bikes in a jobs sequence
+    sum number of items in a jobs sequence
     vehicle capacity
 '''
-def total_no_bikes(jobs_seq, vehicle):
+def total_no_items(jobs_seq, vehicle):
 
     jobs = jobs_sequence_or_list(jobs_seq)
 
-    total_bikes = 0
+    total_items = 0
     for job in jobs:
-        total_bikes += int(job[1])
+        total_items += int(job[1])
 
-    return min(total_bikes, vehicle.capacity)
+    return min(total_items, vehicle.capacity)
 
 '''
 handle jobs list or job sequence
@@ -100,12 +100,12 @@ def jobs_sequence_or_list(jobs_seq):
     return jobs
 
 '''
-sum number of bikes except last one
+sum number of items except last one
 '''
-def sum_no_bikes_except_last_job(jobs_seq):
-    return sum_no_bikes_in_jobs(jobs_seq.jobs[:-1])
+def sum_no_items_except_last_job(jobs_seq):
+    return sum_no_items_in_jobs(jobs_seq.jobs[:-1])
 
-def sum_no_bikes_in_jobs(jobs):
+def sum_no_items_in_jobs(jobs):
     count = 0
     for j in jobs:
         count += j[1]

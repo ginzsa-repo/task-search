@@ -1,1 +1,2378 @@
-[{"servicePointId":"DEPOT_1","servicePointType":"DEPOT","numBikes":0,"name":"Balboa 220","longitude":-58.465992,"latitude":-34.59334},{"servicePointId":"DOCK_167","servicePointType":"DOCK","numBikes":1,"name":"275 - PLAZA 24 DE SEPTIEMBRE","longitude":-58.4485709,"latitude":-34.6070594},{"servicePointId":"DOCK_68","servicePointType":"DOCK","numBikes":1,"name":"068 - Rivarola","longitude":-58.385434,"latitude":-34.6065099},{"servicePointId":"DOCK_436","servicePointType":"DOCK","numBikes":1,"name":"253 - Plaza Colegiales","longitude":-58.4450299,"latitude":-34.5782972},{"servicePointId":"DOCK_378","servicePointType":"DOCK","numBikes":1,"name":"215 - HOSPITAL ALVAREZ","longitude":-58.468287,"latitude":-34.623123},{"servicePointId":"DOCK_174","servicePointType":"DOCK","numBikes":1,"name":"174 - MINISTERIO DE EDUCACION","longitude":-58.391768,"latitude":-34.597225},{"servicePointId":"DOCK_60","servicePointType":"DOCK","numBikes":1,"name":"060 - 25 De Mayo","longitude":-58.371079,"latitude":-34.6016509},{"servicePointId":"DOCK_177","servicePointType":"DOCK","numBikes":1,"name":"177 -PLANETARIO","longitude":-58.41208,"latitude":-34.5680151},{"servicePointId":"DOCK_275","servicePointType":"DOCK","numBikes":1,"name":"256 - PLAZA NORUEGA","longitude":-58.4585729,"latitude":-34.5619095},{"servicePointId":"DOCK_434","servicePointType":"DOCK","numBikes":1,"name":"247 - Plaza Lucio Demare","longitude":-58.4650865,"latitude":-34.5457258},{"servicePointId":"DOCK_375","servicePointType":"DOCK","numBikes":1,"name":"301 - Arregui Y Terrada","longitude":-58.4847864,"latitude":-34.6050537},{"servicePointId":"DOCK_182","servicePointType":"DOCK","numBikes":1,"name":"182 - RAVIGNANI Y GUATEMALA","longitude":-58.4352466,"latitude":-34.5780479},{"servicePointId":"DOCK_317","servicePointType":"DOCK","numBikes":1,"name":"220 - GIRIBONE","longitude":-58.4578146,"latitude":-34.5797368},{"servicePointId":"DOCK_184","servicePointType":"DOCK","numBikes":1,"name":"184 - Pedro Echague","longitude":-58.3913419,"latitude":-34.6306129},{"servicePointId":"DOCK_38","servicePointType":"DOCK","numBikes":1,"name":"038 - Plaza Libertad","longitude":-58.3828403,"latitude":-34.5970497},{"servicePointId":"DOCK_277","servicePointType":"DOCK","numBikes":1,"name":"292 - PLAZA BOLIVIA","longitude":-58.4360367,"latitude":-34.5634645},{"servicePointId":"DOCK_368","servicePointType":"DOCK","numBikes":1,"name":"351 - Plaza De Los Periodistas","longitude":-58.47375,"latitude":-34.621153},{"servicePointId":"DOCK_366","servicePointType":"DOCK","numBikes":1,"name":"360 - Plaza Ramon Falcon","longitude":-58.482602,"latitude":-34.635402},{"servicePointId":"DOCK_74","servicePointType":"DOCK","numBikes":1,"name":"074 - INSTITUTO  LELOIR","longitude":-58.4346338,"latitude":-34.6043825},{"servicePointId":"DOCK_196","servicePointType":"DOCK","numBikes":1,"name":"196 - HOSPITAL ARGERICH","longitude":-58.3657211,"latitude":-34.6275351},{"servicePointId":"DOCK_57","servicePointType":"DOCK","numBikes":1,"name":"057 - BELGRANO","longitude":-58.3706051,"latitude":-34.6134468},{"servicePointId":"DOCK_62","servicePointType":"DOCK","numBikes":1,"name":"062 - Córdoba","longitude":-58.3768501,"latitude":-34.5985102},{"servicePointId":"DOCK_78","servicePointType":"DOCK","numBikes":1,"name":"078 - SUIPACHA Y ARROYO","longitude":-58.3799953,"latitude":-34.5910737},{"servicePointId":"DOCK_79","servicePointType":"DOCK","numBikes":1,"name":"079 - AZUCENA VILLAFLOR","longitude":-58.36393,"latitude":-34.61189},{"servicePointId":"DOCK_11","servicePointType":"DOCK","numBikes":1,"name":"011 - Tribunales","longitude":-58.3850791,"latitude":-34.6011762},{"servicePointId":"DOCK_356","servicePointType":"DOCK","numBikes":1,"name":"245 - Arribeños","longitude":-58.4584684,"latitude":-34.547695},{"servicePointId":"DOCK_330","servicePointType":"DOCK","numBikes":1,"name":"148 - Paternal","longitude":-58.47,"latitude":-34.6008},{"servicePointId":"DOCK_202","servicePointType":"DOCK","numBikes":1,"name":"001 - FACULTAD DE DERECHO","longitude":-58.390967,"latitude":-34.583811},{"servicePointId":"DOCK_204","servicePointType":"DOCK","numBikes":1,"name":"167 - Hipólito Yrigoyen","longitude":-58.4278453,"latitude":-34.6148209},{"servicePointId":"DOCK_283","servicePointType":"DOCK","numBikes":1,"name":"228 - BALDOMERO","longitude":-58.456035,"latitude":-34.6355054},{"servicePointId":"DOCK_207","servicePointType":"DOCK","numBikes":1,"name":"123 - Armenia","longitude":-58.420906,"latitude":-34.5852485},{"servicePointId":"DOCK_208","servicePointType":"DOCK","numBikes":1,"name":"145 - RAVIGNANI","longitude":-58.4379925,"latitude":-34.5804702},{"servicePointId":"DOCK_308","servicePointType":"DOCK","numBikes":1,"name":"251 - Solar de la Abadía","longitude":-58.436847,"latitude":-34.567639},{"servicePointId":"DOCK_354","servicePointType":"DOCK","numBikes":1,"name":"241 - Sanatorio Mendez","longitude":-58.4401581,"latitude":-34.613457},{"servicePointId":"DOCK_212","servicePointType":"DOCK","numBikes":1,"name":"129 - Velasco","longitude":-58.434983,"latitude":-34.600164},{"servicePointId":"DOCK_213","servicePointType":"DOCK","numBikes":1,"name":"136 - Acevedo","longitude":-58.4425362,"latitude":-34.5995649},{"servicePointId":"DOCK_216","servicePointType":"DOCK","numBikes":1,"name":"059 - Coronel Diaz","longitude":-58.4114907,"latitude":-34.5900976},{"servicePointId":"DOCK_87","servicePointType":"DOCK","numBikes":1,"name":"087 - Guayaquil","longitude":-58.4314942,"latitude":-34.619845},{"servicePointId":"DOCK_89","servicePointType":"DOCK","numBikes":1,"name":"089 - Cabello","longitude":-58.4056671,"latitude":-34.5825475},{"servicePointId":"DOCK_220","servicePointType":"DOCK","numBikes":1,"name":"097 - Avelino Diaz","longitude":-58.4279173,"latitude":-34.6354717},{"servicePointId":"DOCK_90","servicePointType":"DOCK","numBikes":1,"name":"090 - GUTIERREZ","longitude":-58.3998749,"latitude":-34.5866324},{"servicePointId":"DOCK_222","servicePointType":"DOCK","numBikes":1,"name":"160 - Godoy Cruz y Libertador","longitude":-58.4206642,"latitude":-34.5727715},{"servicePointId":"DOCK_402","servicePointType":"DOCK","numBikes":1,"name":"315 - BEIRO Y SAN MARTÍN","longitude":-58.4985424,"latitude":-34.5976121},{"servicePointId":"DOCK_224","servicePointType":"DOCK","numBikes":1,"name":"133 - Nicaragua","longitude":-58.434484,"latitude":-34.5808537},{"servicePointId":"DOCK_345","servicePointType":"DOCK","numBikes":1,"name":"226 - Parque La Paternal","longitude":-58.4750615,"latitude":-34.5947762},{"servicePointId":"DOCK_226","servicePointType":"DOCK","numBikes":1,"name":"139 - Virrey Liniers","longitude":-58.4132263,"latitude":-34.633335},{"servicePointId":"DOCK_303","servicePointType":"DOCK","numBikes":1,"name":"238 - RIVERA","longitude":-58.4626871,"latitude":-34.5577145},{"servicePointId":"DOCK_341","servicePointType":"DOCK","numBikes":1,"name":"216 - Margariños Cervantes y Argerich","longitude":-58.4813858,"latitude":-34.6142336},{"servicePointId":"DOCK_46","servicePointType":"DOCK","numBikes":1,"name":"046 - Chile","longitude":-58.3743749,"latitude":-34.6163012},{"servicePointId":"DOCK_233","servicePointType":"DOCK","numBikes":1,"name":"389 - Plaza República De Mexico","longitude":-58.4360367,"latitude":-34.5539765},{"servicePointId":"DOCK_63","servicePointType":"DOCK","numBikes":1,"name":"063 - Reconquista","longitude":-58.3728605,"latitude":-34.5987657},{"servicePointId":"DOCK_401","servicePointType":"DOCK","numBikes":1,"name":"314 - Ramón Falcon","longitude":-58.4795922,"latitude":-34.6347618},{"servicePointId":"DOCK_49","servicePointType":"DOCK","numBikes":1,"name":"049 - 33 Orientales","longitude":-58.422611,"latitude":-34.6290527},{"servicePointId":"DOCK_170","servicePointType":"DOCK","numBikes":1,"name":"170 - SAN LUIS Y ECUADOR","longitude":-58.4061023,"latitude":-34.5996644},{"servicePointId":"DOCK_432","servicePointType":"DOCK","numBikes":1,"name":"187 - Jose Maria Moreno","longitude":-58.435877,"latitude":-34.620249},{"servicePointId":"DOCK_242","servicePointType":"DOCK","numBikes":1,"name":"103 - MALBA","longitude":-58.4032162,"latitude":-34.5771741},{"servicePointId":"DOCK_244","servicePointType":"DOCK","numBikes":1,"name":"266 - Plaza Alfredo Nobel","longitude":-58.4842469,"latitude":-34.5874735},{"servicePointId":"DOCK_339","servicePointType":"DOCK","numBikes":1,"name":"211 - ARANGUREN Y SEGUI","longitude":-58.45471,"latitude":-34.61938},{"servicePointId":"DOCK_41","servicePointType":"DOCK","numBikes":1,"name":"041 - Urquiza y Rondeau","longitude":-58.4076348,"latitude":-34.6364511},{"servicePointId":"DOCK_19","servicePointType":"DOCK","numBikes":1,"name":"019 - PLAZA SAN MARTIN","longitude":-58.3776353,"latitude":-34.5956027},{"servicePointId":"DOCK_21","servicePointType":"DOCK","numBikes":1,"name":"021 - Parque Patricios","longitude":-58.4062115,"latitude":-34.6396832},{"servicePointId":"DOCK_6","servicePointType":"DOCK","numBikes":1,"name":"006 - Parque Lezama","longitude":-58.369758,"latitude":-34.628526},{"servicePointId":"DOCK_338","servicePointType":"DOCK","numBikes":1,"name":"210 - Terrero","longitude":-58.479421,"latitude":-34.602931},{"servicePointId":"DOCK_110","servicePointType":"DOCK","numBikes":1,"name":"110 - Guardia Vieja","longitude":-58.415434,"latitude":-34.601738},{"servicePointId":"DOCK_111","servicePointType":"DOCK","numBikes":1,"name":"111 - MACACHA GUEMES","longitude":-58.3646858,"latitude":-34.6054877},{"servicePointId":"DOCK_400","servicePointType":"DOCK","numBikes":1,"name":"313 - De Los Incas","longitude":-58.471003,"latitude":-34.579751},{"servicePointId":"DOCK_295","servicePointType":"DOCK","numBikes":1,"name":"392 - Calasanz","longitude":-58.437683,"latitude":-34.624802},{"servicePointId":"DOCK_8","servicePointType":"DOCK","numBikes":1,"name":"008 - Congreso","longitude":-58.3893364,"latitude":-34.6094218},{"servicePointId":"DOCK_114","servicePointType":"DOCK","numBikes":1,"name":"114 - DELLA PAOLERA","longitude":-58.3722554,"latitude":-34.5949745},{"servicePointId":"DOCK_119","servicePointType":"DOCK","numBikes":1,"name":"119 - EMILIO MITRE","longitude":-58.3973293,"latitude":-34.5885608},{"servicePointId":"DOCK_398","servicePointType":"DOCK","numBikes":1,"name":"310 - Gregoria Perez","longitude":-58.4546508,"latitude":-34.5761817},{"servicePointId":"DOCK_122","servicePointType":"DOCK","numBikes":1,"name":"122 - COSTA RICA","longitude":-58.4204199,"latitude":-34.5916569},{"servicePointId":"DOCK_126","servicePointType":"DOCK","numBikes":1,"name":"126 - Ministerio de Justicia y Seguridad","longitude":-58.3692243,"latitude":-34.6402672},{"servicePointId":"DOCK_98","servicePointType":"DOCK","numBikes":1,"name":"098 - Belgrano y roca","longitude":-58.3769407,"latitude":-34.6127689},{"servicePointId":"DOCK_26","servicePointType":"DOCK","numBikes":1,"name":"026 - JUANA MANSO I","longitude":-58.3636593,"latitude":-34.6004606},{"servicePointId":"DOCK_396","servicePointType":"DOCK","numBikes":1,"name":"306 - Tres Arroyos Y Olaya","longitude":-58.448011,"latitude":-34.601852},{"servicePointId":"DOCK_134","servicePointType":"DOCK","numBikes":1,"name":"134 - DON BOSCO","longitude":-58.4150532,"latitude":-34.6118013},{"servicePointId":"DOCK_28","servicePointType":"DOCK","numBikes":1,"name":"028 - Plaza Boedo","longitude":-58.4127377,"latitude":-34.6231273},{"servicePointId":"DOCK_388","servicePointType":"DOCK","numBikes":1,"name":"279 - Andonaegui","longitude":-58.48455,"latitude":-34.580927},{"servicePointId":"DOCK_141","servicePointType":"DOCK","numBikes":1,"name":"141 - SOLIS Y ALSINA","longitude":-58.3904968,"latitude":-34.6115231},{"servicePointId":"DOCK_294","servicePointType":"DOCK","numBikes":1,"name":"363 - Udaondo","longitude":-58.4520062,"latitude":-34.5458835},{"servicePointId":"DOCK_146","servicePointType":"DOCK","numBikes":1,"name":"146 - Hospital Francés","longitude":-58.4078419,"latitude":-34.6221118},{"servicePointId":"DOCK_270","servicePointType":"DOCK","numBikes":1,"name":"370 - Beauchef","longitude":-58.43026,"latitude":-34.640114},{"servicePointId":"DOCK_291","servicePointType":"DOCK","numBikes":1,"name":"244 - UADE","longitude":-58.381621,"latitude":-34.616985},{"servicePointId":"DOCK_151","servicePointType":"DOCK","numBikes":1,"name":"151 - AIME PAINÉ","longitude":-58.361285,"latitude":-34.6118145},{"servicePointId":"DOCK_292","servicePointType":"DOCK","numBikes":1,"name":"355 - PLAZA RICARDO LLERAS","longitude":-58.378109,"latitude":-34.634796},{"servicePointId":"DOCK_154","servicePointType":"DOCK","numBikes":1,"name":"154 - GALLO","longitude":-58.4122849,"latitude":-34.6005484},{"servicePointId":"DOCK_262","servicePointType":"DOCK","numBikes":1,"name":"349 - Plaza Saenz Peña","longitude":-58.4673963,"latitude":-34.60962},{"servicePointId":"DOCK_29","servicePointType":"DOCK","numBikes":1,"name":"029 - Parque Centenario","longitude":-58.4335573,"latitude":-34.6079414},{"servicePointId":"DOCK_161","servicePointType":"DOCK","numBikes":1,"name":"161 - Humahuaca","longitude":-58.4196761,"latitude":-34.6020779},{"servicePointId":"DOCK_162","servicePointType":"DOCK","numBikes":1,"name":"162 - LARREA Y BARTOLOMÉ MITRE","longitude":-58.401924,"latitude":-34.608985},{"servicePointId":"DOCK_424","servicePointType":"DOCK","numBikes":1,"name":"387 - Luna","longitude":-58.399683,"latitude":-34.638584},{"servicePointId":"DOCK_298","servicePointType":"DOCK","numBikes":1,"name":"271 - Plazoleta 11 de Noviembre","longitude":-58.463437,"latitude":-34.634443},{"servicePointId":"DOCK_250","servicePointType":"DOCK","numBikes":2,"name":"366 - Plaza Diaz Velez","longitude":-58.377215,"latitude":-34.6526797},{"servicePointId":"DOCK_52","servicePointType":"DOCK","numBikes":2,"name":"052 - SANCHEZ DE BUSTAMANTE","longitude":-58.414851,"latitude":-34.606682},{"servicePointId":"DOCK_427","servicePointType":"DOCK","numBikes":2,"name":"397 - PLAZA MATHEU","longitude":-58.367461,"latitude":-34.64072},{"servicePointId":"DOCK_261","servicePointType":"DOCK","numBikes":2,"name":"272 - Plaza Bruno Giordano","longitude":-58.4406995,"latitude":-34.616207},{"servicePointId":"DOCK_325","servicePointType":"DOCK","numBikes":2,"name":"342 - SAENZ","longitude":-58.416547,"latitude":-34.645252},{"servicePointId":"DOCK_267","servicePointType":"DOCK","numBikes":2,"name":"353 - PLAZA VELEZ SARSFIELD","longitude":-58.4835484,"latitude":-34.6296512},{"servicePointId":"DOCK_322","servicePointType":"DOCK","numBikes":2,"name":"289 - MONTAÑESES","longitude":-58.4541858,"latitude":-34.5513269},{"servicePointId":"DOCK_426","servicePointType":"DOCK","numBikes":2,"name":"396 - PLAZA ALBERTI","longitude":-58.457962,"latitude":-34.555582},{"servicePointId":"DOCK_311","servicePointType":"DOCK","numBikes":2,"name":"213 - Hospital Alvear","longitude":-58.47421143,"latitude":-34.5972098},{"servicePointId":"DOCK_281","servicePointType":"DOCK","numBikes":2,"name":"350 - Plaza Irlanda","longitude":-58.4583742,"latitude":-34.6138773},{"servicePointId":"DOCK_306","servicePointType":"DOCK","numBikes":2,"name":"380 - Paysandu y Galicia","longitude":-58.45585,"latitude":-34.608465},{"servicePointId":"DOCK_245","servicePointType":"DOCK","numBikes":2,"name":"248 - Husares","longitude":-58.4431506,"latitude":-34.5522044},{"servicePointId":"DOCK_297","servicePointType":"DOCK","numBikes":2,"name":"320 - QUIRNO","longitude":-58.466118,"latitude":-34.640978},{"servicePointId":"DOCK_289","servicePointType":"DOCK","numBikes":2,"name":"255 - BARRANCAS DE BELGRANO","longitude":-58.4484316,"latitude":-34.5597934},{"servicePointId":"DOCK_13","servicePointType":"DOCK","numBikes":2,"name":"013 - ONCE","longitude":-58.406,"latitude":-34.61009},{"servicePointId":"DOCK_69","servicePointType":"DOCK","numBikes":2,"name":"069 - Ecuador","longitude":-58.4046092,"latitude":-34.5961006},{"servicePointId":"DOCK_70","servicePointType":"DOCK","numBikes":2,"name":"070 - ARAOZ","longitude":-58.4260597,"latitude":-34.5926862},{"servicePointId":"DOCK_72","servicePointType":"DOCK","numBikes":2,"name":"072 - Venezuela","longitude":-58.3746635,"latitude":-34.6135421},{"servicePointId":"DOCK_73","servicePointType":"DOCK","numBikes":2,"name":"073 - Ruy Díaz de Guzmán","longitude":-58.3718235,"latitude":-34.6306814},{"servicePointId":"DOCK_421","servicePointType":"DOCK","numBikes":2,"name":"376 - Ciudad Universitaria II","longitude":-58.4438699,"latitude":-34.5419013},{"servicePointId":"DOCK_14","servicePointType":"DOCK","numBikes":2,"name":"014 - Pacifico","longitude":-58.426387,"latitude":-34.577424},{"servicePointId":"DOCK_418","servicePointType":"DOCK","numBikes":2,"name":"345 - Plaza Mafalda","longitude":-58.4446136,"latitude":-34.580773},{"servicePointId":"DOCK_417","servicePointType":"DOCK","numBikes":2,"name":"328 - Centro Cultural San Martin","longitude":-58.3880338,"latitude":-34.6053524},{"servicePointId":"DOCK_85","servicePointType":"DOCK","numBikes":2,"name":"085 - AGUERO","longitude":-58.4091784,"latitude":-34.5948057},{"servicePointId":"DOCK_414","servicePointType":"DOCK","numBikes":2,"name":"385 - Franklin","longitude":-58.4383041,"latitude":-34.607731},{"servicePointId":"DOCK_15","servicePointType":"DOCK","numBikes":2,"name":"015 - JUANA MANSO II","longitude":-58.3636706,"latitude":-34.6004},{"servicePointId":"DOCK_407","servicePointType":"DOCK","numBikes":2,"name":"330 - Parque Avellaneda","longitude":-58.479977,"latitude":-34.641773},{"servicePointId":"DOCK_96","servicePointType":"DOCK","numBikes":2,"name":"096 - Carlos Gardel","longitude":-58.4116586,"latitude":-34.6027814},{"servicePointId":"DOCK_107","servicePointType":"DOCK","numBikes":2,"name":"107 - HOSPITAL GARRAHAN","longitude":-58.395852,"latitude":-34.630374},{"servicePointId":"DOCK_116","servicePointType":"DOCK","numBikes":2,"name":"116 - HOSPITAL ALEMÁN","longitude":-58.4025894,"latitude":-34.5921708},{"servicePointId":"DOCK_128","servicePointType":"DOCK","numBikes":2,"name":"128 - PARQUE DEL BAJO","longitude":-58.3689118,"latitude":-34.6041138},{"servicePointId":"DOCK_143","servicePointType":"DOCK","numBikes":2,"name":"143 - BILLINGHURST Y VALENTÍN GOMEZ","longitude":-58.415807,"latitude":-34.604709},{"servicePointId":"DOCK_149","servicePointType":"DOCK","numBikes":2,"name":"149 - LIMA","longitude":-58.3813642,"latitude":-34.6153266},{"servicePointId":"DOCK_150","servicePointType":"DOCK","numBikes":2,"name":"150 - VERA PEÑALOZA","longitude":-58.3631389,"latitude":-34.6181003},{"servicePointId":"DOCK_153","servicePointType":"DOCK","numBikes":2,"name":"153 - JUAN MANUEL DE BLANES","longitude":-58.3620701,"latitude":-34.6307765},{"servicePointId":"DOCK_382","servicePointType":"DOCK","numBikes":2,"name":"204 - Biarritz","longitude":-58.477426,"latitude":-34.605452},{"servicePointId":"DOCK_31","servicePointType":"DOCK","numBikes":2,"name":"031 - Padilla","longitude":-58.4396457,"latitude":-34.6032081},{"servicePointId":"DOCK_379","servicePointType":"DOCK","numBikes":2,"name":"390 - De Los Ombues","longitude":-58.428163,"latitude":-34.560162},{"servicePointId":"DOCK_376","servicePointType":"DOCK","numBikes":2,"name":"324 - Las Victorias","longitude":-58.4871352,"latitude":-34.626698},{"servicePointId":"DOCK_179","servicePointType":"DOCK","numBikes":2,"name":"179 - LA BOCA","longitude":-58.3605313,"latitude":-34.638989},{"servicePointId":"DOCK_373","servicePointType":"DOCK","numBikes":2,"name":"265 - Plaza Exodo Jujeño","longitude":-58.4810286,"latitude":-34.5824889},{"servicePointId":"DOCK_186","servicePointType":"DOCK","numBikes":2,"name":"186 - MANZANA 66","longitude":-58.4064415,"latitude":-34.6136356},{"servicePointId":"DOCK_364","servicePointType":"DOCK","numBikes":2,"name":"381 - Matienzo Y Arce","longitude":-58.434381,"latitude":-34.568722},{"servicePointId":"DOCK_39","servicePointType":"DOCK","numBikes":2,"name":"039 - CONGRESO II","longitude":-58.3876925,"latitude":-34.6092213},{"servicePointId":"DOCK_240","servicePointType":"DOCK","numBikes":2,"name":"239 - Vidal","longitude":-58.465559,"latitude":-34.558137},{"servicePointId":"DOCK_361","servicePointType":"DOCK","numBikes":2,"name":"258 - Plaza J.J. Paso","longitude":-58.453732,"latitude":-34.569147},{"servicePointId":"DOCK_164","servicePointType":"DOCK","numBikes":2,"name":"164 - FACULTAD DE INGENERIA","longitude":-58.3669021,"latitude":-34.6181442},{"servicePointId":"DOCK_201","servicePointType":"DOCK","numBikes":2,"name":"175 - Esmeralda y Corrientes","longitude":-58.378167,"latitude":-34.6034449},{"servicePointId":"DOCK_205","servicePointType":"DOCK","numBikes":2,"name":"125 - F.J.Santamaria de Oro","longitude":-58.4279562,"latitude":-34.5832733},{"servicePointId":"DOCK_355","servicePointType":"DOCK","numBikes":2,"name":"242 - Plazoleta Rafael del Riego","longitude":-58.4465088,"latitude":-34.5675048},{"servicePointId":"DOCK_45","servicePointType":"DOCK","numBikes":2,"name":"045 - Uruguay","longitude":-58.3866934,"latitude":-34.6018635},{"servicePointId":"DOCK_217","servicePointType":"DOCK","numBikes":2,"name":"198 - HOSPITAL SARDÁ","longitude":-58.4042123,"latitude":-34.6342818},{"servicePointId":"DOCK_219","servicePointType":"DOCK","numBikes":2,"name":"140 - Las Casas","longitude":-58.4157035,"latitude":-34.6351732},{"servicePointId":"DOCK_353","servicePointType":"DOCK","numBikes":2,"name":"237 - Madero Office","longitude":-58.3647259,"latitude":-34.5986779},{"servicePointId":"DOCK_223","servicePointType":"DOCK","numBikes":2,"name":"178 - José Marmol","longitude":-58.424895,"latitude":-34.623456},{"servicePointId":"DOCK_343","servicePointType":"DOCK","numBikes":2,"name":"219 - Parque Chacabuco II","longitude":-58.4411639,"latitude":-34.6357272},{"servicePointId":"DOCK_47","servicePointType":"DOCK","numBikes":2,"name":"047 - Colegio Nacional de Buenos Aires","longitude":-58.3733149,"latitude":-34.6117408},{"servicePointId":"DOCK_340","servicePointType":"DOCK","numBikes":2,"name":"214 - Flores","longitude":-58.467329,"latitude":-34.626242},{"servicePointId":"DOCK_239","servicePointType":"DOCK","numBikes":2,"name":"391 - Plaza República de Ecuador","longitude":-58.4201625,"latitude":-34.5650089},{"servicePointId":"DOCK_249","servicePointType":"DOCK","numBikes":2,"name":"307 - LEONARDO PEREYRA","longitude":-58.388562,"latitude":-34.649843},{"servicePointId":"DOCK_252","servicePointType":"DOCK","numBikes":2,"name":"331 - PLAZA HERRERA","longitude":-58.3762137,"latitude":-34.6445163},{"servicePointId":"DOCK_5","servicePointType":"DOCK","numBikes":3,"name":"005 - Plaza Italia","longitude":-58.4209542,"latitude":-34.5805497},{"servicePointId":"DOCK_22","servicePointType":"DOCK","numBikes":3,"name":"022 - Arenales","longitude":-58.3825498,"latitude":-34.5938629},{"servicePointId":"DOCK_23","servicePointType":"DOCK","numBikes":3,"name":"023 - Suipacha","longitude":-58.3793463,"latitude":-34.6003095},{"servicePointId":"DOCK_40","servicePointType":"DOCK","numBikes":3,"name":"040 - Sarmiento","longitude":-58.373499,"latitude":-34.604461},{"servicePointId":"DOCK_64","servicePointType":"DOCK","numBikes":3,"name":"064 - RIOBAMBA","longitude":-58.3941087,"latitude":-34.5936508},{"servicePointId":"DOCK_77","servicePointType":"DOCK","numBikes":3,"name":"077 - SARANDI","longitude":-58.3947367,"latitude":-34.6116273},{"servicePointId":"DOCK_92","servicePointType":"DOCK","numBikes":3,"name":"092 - Salcedo","longitude":-58.4053386,"latitude":-34.6316444},{"servicePointId":"DOCK_93","servicePointType":"DOCK","numBikes":3,"name":"093 - CARLOS CALVO","longitude":-58.3944635,"latitude":-34.620798},{"servicePointId":"DOCK_99","servicePointType":"DOCK","numBikes":3,"name":"099 - Malabia","longitude":-58.435408,"latitude":-34.5960961},{"servicePointId":"DOCK_101","servicePointType":"DOCK","numBikes":3,"name":"101 - Fitz Roy","longitude":-58.4424397,"latitude":-34.5891857},{"servicePointId":"DOCK_106","servicePointType":"DOCK","numBikes":3,"name":"106 - RINCÓN","longitude":-58.3958827,"latitude":-34.6152509},{"servicePointId":"DOCK_117","servicePointType":"DOCK","numBikes":3,"name":"117 - HUMBERTO 1°","longitude":-58.3741759,"latitude":-34.6201008},{"servicePointId":"DOCK_118","servicePointType":"DOCK","numBikes":3,"name":"118 - MEXICO","longitude":-58.4026531,"latitude":-34.6170196},{"servicePointId":"DOCK_130","servicePointType":"DOCK","numBikes":3,"name":"130 - RETIRO II","longitude":-58.3745419,"latitude":-34.5921056},{"servicePointId":"DOCK_135","servicePointType":"DOCK","numBikes":3,"name":"135 - MARCELO T. DE ALVEAR","longitude":-58.3787856,"latitude":-34.5972818},{"servicePointId":"DOCK_156","servicePointType":"DOCK","numBikes":3,"name":"156 - Plaza Alemania","longitude":-58.4074696,"latitude":-34.5775895},{"servicePointId":"DOCK_165","servicePointType":"DOCK","numBikes":3,"name":"165 - PLAZA MONSEÑOR MIGUEL DE ANDREA","longitude":-58.407614,"latitude":-34.597048},{"servicePointId":"DOCK_171","servicePointType":"DOCK","numBikes":3,"name":"171 - Pasteur","longitude":-58.3997553,"latitude":-34.6032813},{"servicePointId":"DOCK_180","servicePointType":"DOCK","numBikes":3,"name":"180 - CASTRO Y MEXICO","longitude":-58.420492,"latitude":-34.619775},{"servicePointId":"DOCK_185","servicePointType":"DOCK","numBikes":3,"name":"185 - AV. PAVÓN Y 33 ORIENTALES","longitude":-58.42177,"latitude":-34.63133},{"servicePointId":"DOCK_197","servicePointType":"DOCK","numBikes":3,"name":"197 - Quintino Bocayuva","longitude":-58.4233969,"latitude":-34.613449},{"servicePointId":"DOCK_189","servicePointType":"DOCK","numBikes":3,"name":"189 - POSADAS","longitude":-58.3852113,"latitude":-34.5886889},{"servicePointId":"DOCK_214","servicePointType":"DOCK","numBikes":3,"name":"142 - Armenia y Gorriti","longitude":-58.4289624,"latitude":-34.5905808},{"servicePointId":"DOCK_235","servicePointType":"DOCK","numBikes":3,"name":"281 - Villa Urquiza","longitude":-58.4868051,"latitude":-34.5737764},{"servicePointId":"DOCK_234","servicePointType":"DOCK","numBikes":3,"name":"344 - UNIVERSIDAD DI TELLA","longitude":-58.4475673,"latitude":-34.5483593},{"servicePointId":"DOCK_241","servicePointType":"DOCK","numBikes":3,"name":"348 - Villa del Parque","longitude":-58.494123,"latitude":-34.600874},{"servicePointId":"DOCK_253","servicePointType":"DOCK","numBikes":3,"name":"383 - Boedo & Venezuela","longitude":-58.4167728,"latitude":-34.6172808},{"servicePointId":"DOCK_254","servicePointType":"DOCK","numBikes":3,"name":"276 - PRIMERA JUNTA","longitude":-58.4415718,"latitude":-34.6206836},{"servicePointId":"DOCK_257","servicePointType":"DOCK","numBikes":3,"name":"264 - Plaza Marcos Sastre","longitude":-58.481233,"latitude":-34.570829},{"servicePointId":"DOCK_260","servicePointType":"DOCK","numBikes":3,"name":"371 - Paseo de las Americas","longitude":-58.4381142,"latitude":-34.550961},{"servicePointId":"DOCK_264","servicePointType":"DOCK","numBikes":3,"name":"283 - CNEL. JUAN CRUZ CZETZ","longitude":-58.4812325,"latitude":-34.5559308},{"servicePointId":"DOCK_273","servicePointType":"DOCK","numBikes":3,"name":"223 - GAINZA","longitude":-58.4466674,"latitude":-34.61668},{"servicePointId":"DOCK_274","servicePointType":"DOCK","numBikes":3,"name":"369 - Ciudad De La Paz","longitude":-58.4630428,"latitude":-34.5563511},{"servicePointId":"DOCK_279","servicePointType":"DOCK","numBikes":3,"name":"325 - CASTELLI Y PERON","longitude":-58.4047854,"latitude":-34.6074177},{"servicePointId":"DOCK_287","servicePointType":"DOCK","numBikes":3,"name":"299 - HIDALGO","longitude":-58.4409183,"latitude":-34.6103343},{"servicePointId":"DOCK_293","servicePointType":"DOCK","numBikes":3,"name":"294 - Bonifacio","longitude":-58.4324405,"latitude":-34.6264943},{"servicePointId":"DOCK_323","servicePointType":"DOCK","numBikes":3,"name":"240 - ECHEVERRIA","longitude":-58.459401,"latitude":-34.565275},{"servicePointId":"DOCK_324","servicePointType":"DOCK","numBikes":3,"name":"280 - JURAMENTO","longitude":-58.4840556,"latitude":-34.578933},{"servicePointId":"DOCK_326","servicePointType":"DOCK","numBikes":3,"name":"343 - POMAR","longitude":-58.4202266,"latitude":-34.6411734},{"servicePointId":"DOCK_327","servicePointType":"DOCK","numBikes":3,"name":"341 - TILCARA","longitude":-58.419928,"latitude":-34.654386},{"servicePointId":"DOCK_328","servicePointType":"DOCK","numBikes":3,"name":"43 - Plaza Houssay","longitude":-58.397354,"latitude":-34.598549},{"servicePointId":"DOCK_329","servicePointType":"DOCK","numBikes":3,"name":"100 - Plaza Gurruchaga","longitude":-58.4351681,"latitude":-34.5931053},{"servicePointId":"DOCK_332","servicePointType":"DOCK","numBikes":3,"name":"202 - Nogoya Y Argerich","longitude":-58.490891,"latitude":-34.602133},{"servicePointId":"DOCK_351","servicePointType":"DOCK","numBikes":3,"name":"235 - Colegiales","longitude":-58.4520772,"latitude":-34.5717033},{"servicePointId":"DOCK_358","servicePointType":"DOCK","numBikes":3,"name":"249 - Balbín","longitude":-58.4655255,"latitude":-34.5615465},{"servicePointId":"DOCK_359","servicePointType":"DOCK","numBikes":3,"name":"250 - Fleni","longitude":-58.4504687,"latitude":-34.555654},{"servicePointId":"DOCK_363","servicePointType":"DOCK","numBikes":3,"name":"354 - Plaza Tupac Amaru","longitude":-58.46205,"latitude":-34.642052},{"servicePointId":"DOCK_370","servicePointType":"DOCK","numBikes":3,"name":"305 - Plaza Martin Rodriguez","longitude":-58.500336,"latitude":-34.590964},{"servicePointId":"DOCK_372","servicePointType":"DOCK","numBikes":3,"name":"322 - MARTÍ Y DIRECTORIO","longitude":-58.470136,"latitude":-34.636406},{"servicePointId":"DOCK_381","servicePointType":"DOCK","numBikes":3,"name":"274 - Plaza Nuestra Señora de la Asuncion","longitude":-58.4665179,"latitude":-34.6153},{"servicePointId":"DOCK_385","servicePointType":"DOCK","numBikes":3,"name":"268 - Plaza Aristóbulo Del Valle","longitude":-58.4934192,"latitude":-34.6061187},{"servicePointId":"DOCK_389","servicePointType":"DOCK","numBikes":3,"name":"286 - OEA","longitude":-58.44024,"latitude":-34.62795},{"servicePointId":"DOCK_397","servicePointType":"DOCK","numBikes":3,"name":"308 - Artigas Y Melincue","longitude":-58.4856262,"latitude":-34.5979984},{"servicePointId":"DOCK_405","servicePointType":"DOCK","numBikes":3,"name":"318 - Plaza Y Carbajal","longitude":-58.4689771,"latitude":-34.5767497},{"servicePointId":"DOCK_420","servicePointType":"DOCK","numBikes":3,"name":"375 - Ciudad Universitaria I","longitude":-58.4390434,"latitude":-34.5440696},{"servicePointId":"DOCK_441","servicePointType":"DOCK","numBikes":3,"name":"016 - Legislatura","longitude":-58.3749195,"latitude":-34.61001199},{"servicePointId":"DOCK_229","servicePointType":"DOCK","numBikes":3,"name":"243 - PLAZOLETA CELEDONIO FLORES","longitude":-58.4514575,"latitude":-34.5813811},{"servicePointId":"DOCK_391","servicePointType":"DOCK","numBikes":3,"name":"295 - Larralde","longitude":-58.4719176,"latitude":-34.5508944},{"servicePointId":"DOCK_429","servicePointType":"DOCK","numBikes":3,"name":"201 - PEPIRI","longitude":-58.4078361,"latitude":-34.6522282},{"servicePointId":"DOCK_265","servicePointType":"DOCK","numBikes":4,"name":"361 - Plaza Don Segundo Sombra","longitude":-58.450658,"latitude":-34.6418833},{"servicePointId":"DOCK_248","servicePointType":"DOCK","numBikes":4,"name":"346 - Plaza Zapiola","longitude":-58.4742812,"latitude":-34.5738411},{"servicePointId":"DOCK_227","servicePointType":"DOCK","numBikes":4,"name":"188 - Aranguren","longitude":-58.4327935,"latitude":-34.6105021},{"servicePointId":"DOCK_225","servicePointType":"DOCK","numBikes":4,"name":"109 - Lerma","longitude":-58.4295184,"latitude":-34.5968511},{"servicePointId":"DOCK_296","servicePointType":"DOCK","numBikes":4,"name":"293 - PEDERNERA","longitude":-58.462547,"latitude":-34.632961},{"servicePointId":"DOCK_350","servicePointType":"DOCK","numBikes":4,"name":"234 - Valdenegro","longitude":-58.4851455,"latitude":-34.567996},{"servicePointId":"DOCK_433","servicePointType":"DOCK","numBikes":4,"name":"273 - Plazoleta Colombia","longitude":-58.373638,"latitude":-34.637491},{"servicePointId":"DOCK_211","servicePointType":"DOCK","numBikes":4,"name":"195 - Plaza Garay","longitude":-58.3879696,"latitude":-34.6266267},{"servicePointId":"DOCK_71","servicePointType":"DOCK","numBikes":4,"name":"071 - CERRITO","longitude":-58.3833559,"latitude":-34.6026673},{"servicePointId":"DOCK_112","servicePointType":"DOCK","numBikes":4,"name":"112 - 9 de Julio","longitude":-58.380384,"latitude":-34.612075},{"servicePointId":"DOCK_17","servicePointType":"DOCK","numBikes":4,"name":"017 - Plaza Almagro","longitude":-58.4187306,"latitude":-34.6064101},{"servicePointId":"DOCK_443","servicePointType":"DOCK","numBikes":4,"name":"081 -Balcarce","longitude":-58.3706184,"latitude":-34.6157533},{"servicePointId":"DOCK_183","servicePointType":"DOCK","numBikes":4,"name":"183 - VIRREY CEVALLOS","longitude":-58.3899728,"latitude":-34.6156994},{"servicePointId":"DOCK_374","servicePointType":"DOCK","numBikes":4,"name":"367 - Mariano Castex","longitude":-58.4573968,"latitude":-34.645764},{"servicePointId":"DOCK_181","servicePointType":"DOCK","numBikes":4,"name":"181 - BILLINGHURST Y MANSILLA","longitude":-58.4120394,"latitude":-34.5927221},{"servicePointId":"DOCK_168","servicePointType":"DOCK","numBikes":4,"name":"168 - Estados Unidos","longitude":-58.3812271,"latitude":-34.6186217},{"servicePointId":"DOCK_342","servicePointType":"DOCK","numBikes":4,"name":"218 - Campana","longitude":-58.484297,"latitude":-34.616813},{"servicePointId":"DOCK_444","servicePointType":"DOCK","numBikes":4,"name":"061-Ministerio de Economia","longitude":-58.3711541,"latitude":-34.6089087},{"servicePointId":"DOCK_448","servicePointType":"DOCK","numBikes":4,"name":"393 - Barrio 31","longitude":-58.3787309,"latitude":-34.582618},{"servicePointId":"DOCK_386","servicePointType":"DOCK","numBikes":4,"name":"277 - Coghlan","longitude":-58.475512,"latitude":-34.5656428},{"servicePointId":"DOCK_138","servicePointType":"DOCK","numBikes":4,"name":"138 - Hospital Britanico","longitude":-58.3876724,"latitude":-34.6353595},{"servicePointId":"DOCK_390","servicePointType":"DOCK","numBikes":4,"name":"288- 11 de septiembre","longitude":-58.459881,"latitude":-34.547758},{"servicePointId":"DOCK_395","servicePointType":"DOCK","numBikes":4,"name":"303 - Huaura","longitude":-58.4535687,"latitude":-34.5968038},{"servicePointId":"DOCK_132","servicePointType":"DOCK","numBikes":4,"name":"132 - CORRIENTES","longitude":-58.372763,"latitude":-34.6033685},{"servicePointId":"DOCK_120","servicePointType":"DOCK","numBikes":4,"name":"120 - HOSPITAL RAMOS MEJIA","longitude":-58.4092876,"latitude":-34.617509},{"servicePointId":"DOCK_399","servicePointType":"DOCK","numBikes":4,"name":"312 - Parque Chacabuco  I","longitude":-58.446273,"latitude":-34.6340414},{"servicePointId":"DOCK_95","servicePointType":"DOCK","numBikes":4,"name":"095 - ESMERALDA","longitude":-58.3781678,"latitude":-34.6021121},{"servicePointId":"DOCK_409","servicePointType":"DOCK","numBikes":4,"name":"339 - AMANCIO ALCORTA","longitude":-58.412878,"latitude":-34.654801},{"servicePointId":"DOCK_416","servicePointType":"DOCK","numBikes":4,"name":"257 - Plaza Francisco Ramirez","longitude":-58.469072,"latitude":-34.5532664},{"servicePointId":"DOCK_80","servicePointType":"DOCK","numBikes":4,"name":"080 - DOBLAS","longitude":-58.4303766,"latitude":-34.624435},{"servicePointId":"DOCK_280","servicePointType":"DOCK","numBikes":4,"name":"222 - SIMON BOLIVAR","longitude":-58.4494755,"latitude":-34.6333113},{"servicePointId":"DOCK_236","servicePointType":"DOCK","numBikes":4,"name":"254 - Plaza Rafael Hernandez","longitude":-58.4550484,"latitude":-34.5623422},{"servicePointId":"DOCK_305","servicePointType":"DOCK","numBikes":4,"name":"398 - Rojas","longitude":-58.44487,"latitude":-34.612684},{"servicePointId":"DOCK_285","servicePointType":"DOCK","numBikes":4,"name":"400 - Reserva Ecologica","longitude":-58.3561752,"latitude":-34.6172122},{"servicePointId":"DOCK_284","servicePointType":"DOCK","numBikes":4,"name":"229 - RIGLOS","longitude":-58.4350943,"latitude":-34.6311092},{"servicePointId":"DOCK_314","servicePointType":"DOCK","numBikes":4,"name":"212 - SOR JUANA","longitude":-58.4602399,"latitude":-34.61047},{"servicePointId":"DOCK_276","servicePointType":"DOCK","numBikes":4,"name":"296 - FREIRE","longitude":-58.4699652,"latitude":-34.559476},{"servicePointId":"DOCK_422","servicePointType":"DOCK","numBikes":4,"name":"377 - Ciudad Universitaria III","longitude":-58.4442786,"latitude":-34.5409892},{"servicePointId":"DOCK_266","servicePointType":"DOCK","numBikes":4,"name":"379 - BERG","longitude":-58.4287202,"latitude":-34.6601336},{"servicePointId":"DOCK_66","servicePointType":"DOCK","numBikes":4,"name":"066 - Billinghurst","longitude":-58.4138713,"latitude":-34.5945475},{"servicePointId":"DOCK_59","servicePointType":"DOCK","numBikes":4,"name":"018 - Independencia","longitude":-58.3804546,"latitude":-34.617771},{"servicePointId":"DOCK_56","servicePointType":"DOCK","numBikes":4,"name":"056 - Plaza Palermo Viejo","longitude":-58.425999,"latitude":-34.588567},{"servicePointId":"DOCK_48","servicePointType":"DOCK","numBikes":5,"name":"034 - Colonia Express","longitude":-58.362004,"latitude":-34.623937},{"servicePointId":"DOCK_336","servicePointType":"DOCK","numBikes":5,"name":"207 - PLAZA ARENALES","longitude":-58.5114159,"latitude":-34.5999173},{"servicePointId":"DOCK_256","servicePointType":"DOCK","numBikes":5,"name":"209 - PAYSANDU","longitude":-58.454304,"latitude":-34.610398},{"servicePointId":"DOCK_238","servicePointType":"DOCK","numBikes":5,"name":"217 - Cachimayo","longitude":-58.4367011,"latitude":-34.6365814},{"servicePointId":"DOCK_228","servicePointType":"DOCK","numBikes":5,"name":"010 - Madero UCA","longitude":-58.3657444,"latitude":-34.6162819},{"servicePointId":"DOCK_299","servicePointType":"DOCK","numBikes":5,"name":"221 - CULPINA","longitude":-58.466293,"latitude":-34.631486},{"servicePointId":"DOCK_152","servicePointType":"DOCK","numBikes":5,"name":"152 - JULIETA LANTERI","longitude":-58.3596311,"latitude":-34.6181645},{"servicePointId":"DOCK_210","servicePointType":"DOCK","numBikes":5,"name":"335 - General Urquiza","longitude":-58.4113228,"latitude":-34.572132},{"servicePointId":"DOCK_431","servicePointType":"DOCK","numBikes":5,"name":"362 - PARQUE DE LA MEMORIA","longitude":-58.4361167,"latitude":-34.5430055},{"servicePointId":"DOCK_33","servicePointType":"DOCK","numBikes":5,"name":"033 - Facultad de Medicina","longitude":-58.3989807,"latitude":-34.5970909},{"servicePointId":"DOCK_32","servicePointType":"DOCK","numBikes":5,"name":"032 - Catedral","longitude":-58.3735984,"latitude":-34.6072074},{"servicePointId":"DOCK_371","servicePointType":"DOCK","numBikes":5,"name":"269 - Plaza De La Misericordia","longitude":-58.455058,"latitude":-34.63281},{"servicePointId":"DOCK_268","servicePointType":"DOCK","numBikes":5,"name":"399 - GARCIA DEL RIO","longitude":-58.4764172,"latitude":-34.550293},{"servicePointId":"DOCK_412","servicePointType":"DOCK","numBikes":5,"name":"372 - Villa Soldati","longitude":-58.4411434,"latitude":-34.6626285},{"servicePointId":"DOCK_307","servicePointType":"DOCK","numBikes":5,"name":"358 - Plaza Almirante Brown","longitude":-58.365323,"latitude":-34.6451626},{"servicePointId":"DOCK_83","servicePointType":"DOCK","numBikes":5,"name":"083 - Paraná","longitude":-58.3893728,"latitude":-34.603269},{"servicePointId":"DOCK_163","servicePointType":"DOCK","numBikes":5,"name":"163 - ONCE II","longitude":-58.4064308,"latitude":-34.6095663},{"servicePointId":"DOCK_24","servicePointType":"DOCK","numBikes":5,"name":"024 - ALSINA","longitude":-58.3808943,"latitude":-34.610583},{"servicePointId":"DOCK_362","servicePointType":"DOCK","numBikes":6,"name":"262 - Holmberg","longitude":-58.479108,"latitude":-34.566746},{"servicePointId":"DOCK_232","servicePointType":"DOCK","numBikes":6,"name":"252 - Tamborini","longitude":-58.4788904,"latitude":-34.5599395},{"servicePointId":"DOCK_173","servicePointType":"DOCK","numBikes":6,"name":"173 - PLAZA CECILIA GRIERSON","longitude":-58.3751607,"latitude":-34.6222964},{"servicePointId":"DOCK_286","servicePointType":"DOCK","numBikes":6,"name":"284 - BONIFACIO Y CARABOBO","longitude":-58.4551112,"latitude":-34.6304712},{"servicePointId":"DOCK_435","servicePointType":"DOCK","numBikes":6,"name":"227 -Club Ciudad de Buenos Aires","longitude":-58.4595541,"latitude":-34.5445971},{"servicePointId":"DOCK_408","servicePointType":"DOCK","numBikes":6,"name":"337 - UTN","longitude":-58.4683699,"latitude":-34.6600076},{"servicePointId":"DOCK_302","servicePointType":"DOCK","numBikes":6,"name":"340 - PLAZA NUEVA POMPEYA","longitude":-58.415423,"latitude":-34.651955},{"servicePointId":"DOCK_335","servicePointType":"DOCK","numBikes":6,"name":"206 - Galicia","longitude":-58.470907,"latitude":-34.615852},{"servicePointId":"DOCK_86","servicePointType":"DOCK","numBikes":7,"name":"086 - SAAVEDRA","longitude":-58.4016808,"latitude":-34.6212681},{"servicePointId":"DOCK_288","servicePointType":"DOCK","numBikes":7,"name":"333 - MIRO","longitude":-58.4429517,"latitude":-34.6404886},{"servicePointId":"DOCK_193","servicePointType":"DOCK","numBikes":7,"name":"193 - ARENALES Y AGUERO","longitude":-58.4061652,"latitude":-34.5908626},{"servicePointId":"DOCK_187","servicePointType":"DOCK","numBikes":7,"name":"261 - QUINTEROS LIDORO","longitude":-58.450854,"latitude":-34.5528626},{"servicePointId":"DOCK_300","servicePointType":"DOCK","numBikes":7,"name":"321 - PERITO MORENO","longitude":-58.431683,"latitude":-34.649215},{"servicePointId":"DOCK_75","servicePointType":"DOCK","numBikes":7,"name":"075 - Plaza Primero de Mayo","longitude":-58.3989871,"latitude":-34.6122976},{"servicePointId":"DOCK_91","servicePointType":"DOCK","numBikes":7,"name":"091 - Pasco","longitude":-58.397602,"latitude":-34.6174482},{"servicePointId":"DOCK_392","servicePointType":"DOCK","numBikes":8,"name":"297 - TRONADOR Y GARCÍA DEL RÍO","longitude":-58.485419,"latitude":-34.554754},{"servicePointId":"DOCK_278","servicePointType":"DOCK","numBikes":8,"name":"233 - MONROE","longitude":-58.469789,"latitude":-34.564083},{"servicePointId":"DOCK_449","servicePointType":"DOCK","numBikes":9,"name":"352 - San Jose de Flores","longitude":-58.4636606,"latitude":-34.6289374},{"servicePointId":"DOCK_221","servicePointType":"DOCK","numBikes":9,"name":"157 - Senillosa y Zuviria","longitude":-58.4274042,"latitude":-34.6280441},{"servicePointId":"DOCK_188","servicePointType":"DOCK","numBikes":10,"name":"373 - Jorgelina De Simone","longitude":-58.3904814,"latitude":-34.623923},{"servicePointId":"DOCK_419","servicePointType":"DOCK","numBikes":10,"name":"359 - Plaza Balcarce","longitude":-58.467851,"latitude":-34.547673},{"servicePointId":"DOCK_175","servicePointType":"DOCK","numBikes":12,"name":"147 - Constitución","longitude":-58.3809349,"latitude":-34.6267408},{"servicePointId":"DOCK_155","servicePointType":"DOCK","numBikes":13,"name":"155 - Parque José Evaristo Uriburu","longitude":-58.4125606,"latitude":-34.6409617},{"servicePointId":"DOCK_301","servicePointType":"DOCK","numBikes":13,"name":"309 - HOMERO MANZI","longitude":-58.431785,"latitude":-34.644841}]
+[
+    {
+        "servicePointId": "DEPOT_1",
+        "servicePointType": "DEPOT",
+        "numitems": 0,
+        "name": "Balboa 220",
+        "longitude": -58.465992,
+        "latitude": -34.59334
+    },
+    {
+        "servicePointId": "DOCK_167",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "275 - PLAZA 24 DE SEPTIEMBRE",
+        "longitude": -58.4485709,
+        "latitude": -34.6070594
+    },
+    {
+        "servicePointId": "DOCK_68",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "068 - Rivarola",
+        "longitude": -58.385434,
+        "latitude": -34.6065099
+    },
+    {
+        "servicePointId": "DOCK_436",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "253 - Plaza Colegiales",
+        "longitude": -58.4450299,
+        "latitude": -34.5782972
+    },
+    {
+        "servicePointId": "DOCK_378",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "215 - HOSPITAL ALVAREZ",
+        "longitude": -58.468287,
+        "latitude": -34.623123
+    },
+    {
+        "servicePointId": "DOCK_174",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "174 - MINISTERIO DE EDUCACION",
+        "longitude": -58.391768,
+        "latitude": -34.597225
+    },
+    {
+        "servicePointId": "DOCK_60",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "060 - 25 De Mayo",
+        "longitude": -58.371079,
+        "latitude": -34.6016509
+    },
+    {
+        "servicePointId": "DOCK_177",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "177 -PLANETARIO",
+        "longitude": -58.41208,
+        "latitude": -34.5680151
+    },
+    {
+        "servicePointId": "DOCK_275",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "256 - PLAZA NORUEGA",
+        "longitude": -58.4585729,
+        "latitude": -34.5619095
+    },
+    {
+        "servicePointId": "DOCK_434",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "247 - Plaza Lucio Demare",
+        "longitude": -58.4650865,
+        "latitude": -34.5457258
+    },
+    {
+        "servicePointId": "DOCK_375",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "301 - Arregui Y Terrada",
+        "longitude": -58.4847864,
+        "latitude": -34.6050537
+    },
+    {
+        "servicePointId": "DOCK_182",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "182 - RAVIGNANI Y GUATEMALA",
+        "longitude": -58.4352466,
+        "latitude": -34.5780479
+    },
+    {
+        "servicePointId": "DOCK_317",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "220 - GIRIBONE",
+        "longitude": -58.4578146,
+        "latitude": -34.5797368
+    },
+    {
+        "servicePointId": "DOCK_184",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "184 - Pedro Echague",
+        "longitude": -58.3913419,
+        "latitude": -34.6306129
+    },
+    {
+        "servicePointId": "DOCK_38",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "038 - Plaza Libertad",
+        "longitude": -58.3828403,
+        "latitude": -34.5970497
+    },
+    {
+        "servicePointId": "DOCK_277",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "292 - PLAZA BOLIVIA",
+        "longitude": -58.4360367,
+        "latitude": -34.5634645
+    },
+    {
+        "servicePointId": "DOCK_368",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "351 - Plaza De Los Periodistas",
+        "longitude": -58.47375,
+        "latitude": -34.621153
+    },
+    {
+        "servicePointId": "DOCK_366",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "360 - Plaza Ramon Falcon",
+        "longitude": -58.482602,
+        "latitude": -34.635402
+    },
+    {
+        "servicePointId": "DOCK_74",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "074 - INSTITUTO  LELOIR",
+        "longitude": -58.4346338,
+        "latitude": -34.6043825
+    },
+    {
+        "servicePointId": "DOCK_196",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "196 - HOSPITAL ARGERICH",
+        "longitude": -58.3657211,
+        "latitude": -34.6275351
+    },
+    {
+        "servicePointId": "DOCK_57",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "057 - BELGRANO",
+        "longitude": -58.3706051,
+        "latitude": -34.6134468
+    },
+    {
+        "servicePointId": "DOCK_62",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "062 - Córdoba",
+        "longitude": -58.3768501,
+        "latitude": -34.5985102
+    },
+    {
+        "servicePointId": "DOCK_78",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "078 - SUIPACHA Y ARROYO",
+        "longitude": -58.3799953,
+        "latitude": -34.5910737
+    },
+    {
+        "servicePointId": "DOCK_79",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "079 - AZUCENA VILLAFLOR",
+        "longitude": -58.36393,
+        "latitude": -34.61189
+    },
+    {
+        "servicePointId": "DOCK_11",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "011 - Tribunales",
+        "longitude": -58.3850791,
+        "latitude": -34.6011762
+    },
+    {
+        "servicePointId": "DOCK_356",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "245 - Arribeños",
+        "longitude": -58.4584684,
+        "latitude": -34.547695
+    },
+    {
+        "servicePointId": "DOCK_330",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "148 - Paternal",
+        "longitude": -58.47,
+        "latitude": -34.6008
+    },
+    {
+        "servicePointId": "DOCK_202",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "001 - FACULTAD DE DERECHO",
+        "longitude": -58.390967,
+        "latitude": -34.583811
+    },
+    {
+        "servicePointId": "DOCK_204",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "167 - Hipólito Yrigoyen",
+        "longitude": -58.4278453,
+        "latitude": -34.6148209
+    },
+    {
+        "servicePointId": "DOCK_283",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "228 - BALDOMERO",
+        "longitude": -58.456035,
+        "latitude": -34.6355054
+    },
+    {
+        "servicePointId": "DOCK_207",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "123 - Armenia",
+        "longitude": -58.420906,
+        "latitude": -34.5852485
+    },
+    {
+        "servicePointId": "DOCK_208",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "145 - RAVIGNANI",
+        "longitude": -58.4379925,
+        "latitude": -34.5804702
+    },
+    {
+        "servicePointId": "DOCK_308",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "251 - Solar de la Abadía",
+        "longitude": -58.436847,
+        "latitude": -34.567639
+    },
+    {
+        "servicePointId": "DOCK_354",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "241 - Sanatorio Mendez",
+        "longitude": -58.4401581,
+        "latitude": -34.613457
+    },
+    {
+        "servicePointId": "DOCK_212",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "129 - Velasco",
+        "longitude": -58.434983,
+        "latitude": -34.600164
+    },
+    {
+        "servicePointId": "DOCK_213",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "136 - Acevedo",
+        "longitude": -58.4425362,
+        "latitude": -34.5995649
+    },
+    {
+        "servicePointId": "DOCK_216",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "059 - Coronel Diaz",
+        "longitude": -58.4114907,
+        "latitude": -34.5900976
+    },
+    {
+        "servicePointId": "DOCK_87",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "087 - Guayaquil",
+        "longitude": -58.4314942,
+        "latitude": -34.619845
+    },
+    {
+        "servicePointId": "DOCK_89",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "089 - Cabello",
+        "longitude": -58.4056671,
+        "latitude": -34.5825475
+    },
+    {
+        "servicePointId": "DOCK_220",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "097 - Avelino Diaz",
+        "longitude": -58.4279173,
+        "latitude": -34.6354717
+    },
+    {
+        "servicePointId": "DOCK_90",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "090 - GUTIERREZ",
+        "longitude": -58.3998749,
+        "latitude": -34.5866324
+    },
+    {
+        "servicePointId": "DOCK_222",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "160 - Godoy Cruz y Libertador",
+        "longitude": -58.4206642,
+        "latitude": -34.5727715
+    },
+    {
+        "servicePointId": "DOCK_402",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "315 - BEIRO Y SAN MARTÍN",
+        "longitude": -58.4985424,
+        "latitude": -34.5976121
+    },
+    {
+        "servicePointId": "DOCK_224",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "133 - Nicaragua",
+        "longitude": -58.434484,
+        "latitude": -34.5808537
+    },
+    {
+        "servicePointId": "DOCK_345",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "226 - Parque La Paternal",
+        "longitude": -58.4750615,
+        "latitude": -34.5947762
+    },
+    {
+        "servicePointId": "DOCK_226",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "139 - Virrey Liniers",
+        "longitude": -58.4132263,
+        "latitude": -34.633335
+    },
+    {
+        "servicePointId": "DOCK_303",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "238 - RIVERA",
+        "longitude": -58.4626871,
+        "latitude": -34.5577145
+    },
+    {
+        "servicePointId": "DOCK_341",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "216 - Margariños Cervantes y Argerich",
+        "longitude": -58.4813858,
+        "latitude": -34.6142336
+    },
+    {
+        "servicePointId": "DOCK_46",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "046 - Chile",
+        "longitude": -58.3743749,
+        "latitude": -34.6163012
+    },
+    {
+        "servicePointId": "DOCK_233",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "389 - Plaza República De Mexico",
+        "longitude": -58.4360367,
+        "latitude": -34.5539765
+    },
+    {
+        "servicePointId": "DOCK_63",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "063 - Reconquista",
+        "longitude": -58.3728605,
+        "latitude": -34.5987657
+    },
+    {
+        "servicePointId": "DOCK_401",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "314 - Ramón Falcon",
+        "longitude": -58.4795922,
+        "latitude": -34.6347618
+    },
+    {
+        "servicePointId": "DOCK_49",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "049 - 33 Orientales",
+        "longitude": -58.422611,
+        "latitude": -34.6290527
+    },
+    {
+        "servicePointId": "DOCK_170",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "170 - SAN LUIS Y ECUADOR",
+        "longitude": -58.4061023,
+        "latitude": -34.5996644
+    },
+    {
+        "servicePointId": "DOCK_432",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "187 - Jose Maria Moreno",
+        "longitude": -58.435877,
+        "latitude": -34.620249
+    },
+    {
+        "servicePointId": "DOCK_242",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "103 - MALBA",
+        "longitude": -58.4032162,
+        "latitude": -34.5771741
+    },
+    {
+        "servicePointId": "DOCK_244",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "266 - Plaza Alfredo Nobel",
+        "longitude": -58.4842469,
+        "latitude": -34.5874735
+    },
+    {
+        "servicePointId": "DOCK_339",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "211 - ARANGUREN Y SEGUI",
+        "longitude": -58.45471,
+        "latitude": -34.61938
+    },
+    {
+        "servicePointId": "DOCK_41",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "041 - Urquiza y Rondeau",
+        "longitude": -58.4076348,
+        "latitude": -34.6364511
+    },
+    {
+        "servicePointId": "DOCK_19",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "019 - PLAZA SAN MARTIN",
+        "longitude": -58.3776353,
+        "latitude": -34.5956027
+    },
+    {
+        "servicePointId": "DOCK_21",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "021 - Parque Patricios",
+        "longitude": -58.4062115,
+        "latitude": -34.6396832
+    },
+    {
+        "servicePointId": "DOCK_6",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "006 - Parque Lezama",
+        "longitude": -58.369758,
+        "latitude": -34.628526
+    },
+    {
+        "servicePointId": "DOCK_338",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "210 - Terrero",
+        "longitude": -58.479421,
+        "latitude": -34.602931
+    },
+    {
+        "servicePointId": "DOCK_110",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "110 - Guardia Vieja",
+        "longitude": -58.415434,
+        "latitude": -34.601738
+    },
+    {
+        "servicePointId": "DOCK_111",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "111 - MACACHA GUEMES",
+        "longitude": -58.3646858,
+        "latitude": -34.6054877
+    },
+    {
+        "servicePointId": "DOCK_400",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "313 - De Los Incas",
+        "longitude": -58.471003,
+        "latitude": -34.579751
+    },
+    {
+        "servicePointId": "DOCK_295",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "392 - Calasanz",
+        "longitude": -58.437683,
+        "latitude": -34.624802
+    },
+    {
+        "servicePointId": "DOCK_8",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "008 - Congreso",
+        "longitude": -58.3893364,
+        "latitude": -34.6094218
+    },
+    {
+        "servicePointId": "DOCK_114",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "114 - DELLA PAOLERA",
+        "longitude": -58.3722554,
+        "latitude": -34.5949745
+    },
+    {
+        "servicePointId": "DOCK_119",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "119 - EMILIO MITRE",
+        "longitude": -58.3973293,
+        "latitude": -34.5885608
+    },
+    {
+        "servicePointId": "DOCK_398",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "310 - Gregoria Perez",
+        "longitude": -58.4546508,
+        "latitude": -34.5761817
+    },
+    {
+        "servicePointId": "DOCK_122",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "122 - COSTA RICA",
+        "longitude": -58.4204199,
+        "latitude": -34.5916569
+    },
+    {
+        "servicePointId": "DOCK_126",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "126 - Ministerio de Justicia y Seguridad",
+        "longitude": -58.3692243,
+        "latitude": -34.6402672
+    },
+    {
+        "servicePointId": "DOCK_98",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "098 - Belgrano y roca",
+        "longitude": -58.3769407,
+        "latitude": -34.6127689
+    },
+    {
+        "servicePointId": "DOCK_26",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "026 - JUANA MANSO I",
+        "longitude": -58.3636593,
+        "latitude": -34.6004606
+    },
+    {
+        "servicePointId": "DOCK_396",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "306 - Tres Arroyos Y Olaya",
+        "longitude": -58.448011,
+        "latitude": -34.601852
+    },
+    {
+        "servicePointId": "DOCK_134",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "134 - DON BOSCO",
+        "longitude": -58.4150532,
+        "latitude": -34.6118013
+    },
+    {
+        "servicePointId": "DOCK_28",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "028 - Plaza Boedo",
+        "longitude": -58.4127377,
+        "latitude": -34.6231273
+    },
+    {
+        "servicePointId": "DOCK_388",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "279 - Andonaegui",
+        "longitude": -58.48455,
+        "latitude": -34.580927
+    },
+    {
+        "servicePointId": "DOCK_141",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "141 - SOLIS Y ALSINA",
+        "longitude": -58.3904968,
+        "latitude": -34.6115231
+    },
+    {
+        "servicePointId": "DOCK_294",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "363 - Udaondo",
+        "longitude": -58.4520062,
+        "latitude": -34.5458835
+    },
+    {
+        "servicePointId": "DOCK_146",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "146 - Hospital Francés",
+        "longitude": -58.4078419,
+        "latitude": -34.6221118
+    },
+    {
+        "servicePointId": "DOCK_270",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "370 - Beauchef",
+        "longitude": -58.43026,
+        "latitude": -34.640114
+    },
+    {
+        "servicePointId": "DOCK_291",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "244 - UADE",
+        "longitude": -58.381621,
+        "latitude": -34.616985
+    },
+    {
+        "servicePointId": "DOCK_151",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "151 - AIME PAINÉ",
+        "longitude": -58.361285,
+        "latitude": -34.6118145
+    },
+    {
+        "servicePointId": "DOCK_292",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "355 - PLAZA RICARDO LLERAS",
+        "longitude": -58.378109,
+        "latitude": -34.634796
+    },
+    {
+        "servicePointId": "DOCK_154",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "154 - GALLO",
+        "longitude": -58.4122849,
+        "latitude": -34.6005484
+    },
+    {
+        "servicePointId": "DOCK_262",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "349 - Plaza Saenz Peña",
+        "longitude": -58.4673963,
+        "latitude": -34.60962
+    },
+    {
+        "servicePointId": "DOCK_29",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "029 - Parque Centenario",
+        "longitude": -58.4335573,
+        "latitude": -34.6079414
+    },
+    {
+        "servicePointId": "DOCK_161",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "161 - Humahuaca",
+        "longitude": -58.4196761,
+        "latitude": -34.6020779
+    },
+    {
+        "servicePointId": "DOCK_162",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "162 - LARREA Y BARTOLOMÉ MITRE",
+        "longitude": -58.401924,
+        "latitude": -34.608985
+    },
+    {
+        "servicePointId": "DOCK_424",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "387 - Luna",
+        "longitude": -58.399683,
+        "latitude": -34.638584
+    },
+    {
+        "servicePointId": "DOCK_298",
+        "servicePointType": "DOCK",
+        "numitems": 1,
+        "name": "271 - Plazoleta 11 de Noviembre",
+        "longitude": -58.463437,
+        "latitude": -34.634443
+    },
+    {
+        "servicePointId": "DOCK_250",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "366 - Plaza Diaz Velez",
+        "longitude": -58.377215,
+        "latitude": -34.6526797
+    },
+    {
+        "servicePointId": "DOCK_52",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "052 - SANCHEZ DE BUSTAMANTE",
+        "longitude": -58.414851,
+        "latitude": -34.606682
+    },
+    {
+        "servicePointId": "DOCK_427",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "397 - PLAZA MATHEU",
+        "longitude": -58.367461,
+        "latitude": -34.64072
+    },
+    {
+        "servicePointId": "DOCK_261",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "272 - Plaza Bruno Giordano",
+        "longitude": -58.4406995,
+        "latitude": -34.616207
+    },
+    {
+        "servicePointId": "DOCK_325",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "342 - SAENZ",
+        "longitude": -58.416547,
+        "latitude": -34.645252
+    },
+    {
+        "servicePointId": "DOCK_267",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "353 - PLAZA VELEZ SARSFIELD",
+        "longitude": -58.4835484,
+        "latitude": -34.6296512
+    },
+    {
+        "servicePointId": "DOCK_322",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "289 - MONTAÑESES",
+        "longitude": -58.4541858,
+        "latitude": -34.5513269
+    },
+    {
+        "servicePointId": "DOCK_426",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "396 - PLAZA ALBERTI",
+        "longitude": -58.457962,
+        "latitude": -34.555582
+    },
+    {
+        "servicePointId": "DOCK_311",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "213 - Hospital Alvear",
+        "longitude": -58.47421143,
+        "latitude": -34.5972098
+    },
+    {
+        "servicePointId": "DOCK_281",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "350 - Plaza Irlanda",
+        "longitude": -58.4583742,
+        "latitude": -34.6138773
+    },
+    {
+        "servicePointId": "DOCK_306",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "380 - Paysandu y Galicia",
+        "longitude": -58.45585,
+        "latitude": -34.608465
+    },
+    {
+        "servicePointId": "DOCK_245",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "248 - Husares",
+        "longitude": -58.4431506,
+        "latitude": -34.5522044
+    },
+    {
+        "servicePointId": "DOCK_297",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "320 - QUIRNO",
+        "longitude": -58.466118,
+        "latitude": -34.640978
+    },
+    {
+        "servicePointId": "DOCK_289",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "255 - BARRANCAS DE BELGRANO",
+        "longitude": -58.4484316,
+        "latitude": -34.5597934
+    },
+    {
+        "servicePointId": "DOCK_13",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "013 - ONCE",
+        "longitude": -58.406,
+        "latitude": -34.61009
+    },
+    {
+        "servicePointId": "DOCK_69",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "069 - Ecuador",
+        "longitude": -58.4046092,
+        "latitude": -34.5961006
+    },
+    {
+        "servicePointId": "DOCK_70",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "070 - ARAOZ",
+        "longitude": -58.4260597,
+        "latitude": -34.5926862
+    },
+    {
+        "servicePointId": "DOCK_72",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "072 - Venezuela",
+        "longitude": -58.3746635,
+        "latitude": -34.6135421
+    },
+    {
+        "servicePointId": "DOCK_73",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "073 - Ruy Díaz de Guzmán",
+        "longitude": -58.3718235,
+        "latitude": -34.6306814
+    },
+    {
+        "servicePointId": "DOCK_421",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "376 - Ciudad Universitaria II",
+        "longitude": -58.4438699,
+        "latitude": -34.5419013
+    },
+    {
+        "servicePointId": "DOCK_14",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "014 - Pacifico",
+        "longitude": -58.426387,
+        "latitude": -34.577424
+    },
+    {
+        "servicePointId": "DOCK_418",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "345 - Plaza Mafalda",
+        "longitude": -58.4446136,
+        "latitude": -34.580773
+    },
+    {
+        "servicePointId": "DOCK_417",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "328 - Centro Cultural San Martin",
+        "longitude": -58.3880338,
+        "latitude": -34.6053524
+    },
+    {
+        "servicePointId": "DOCK_85",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "085 - AGUERO",
+        "longitude": -58.4091784,
+        "latitude": -34.5948057
+    },
+    {
+        "servicePointId": "DOCK_414",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "385 - Franklin",
+        "longitude": -58.4383041,
+        "latitude": -34.607731
+    },
+    {
+        "servicePointId": "DOCK_15",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "015 - JUANA MANSO II",
+        "longitude": -58.3636706,
+        "latitude": -34.6004
+    },
+    {
+        "servicePointId": "DOCK_407",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "330 - Parque Avellaneda",
+        "longitude": -58.479977,
+        "latitude": -34.641773
+    },
+    {
+        "servicePointId": "DOCK_96",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "096 - Carlos Gardel",
+        "longitude": -58.4116586,
+        "latitude": -34.6027814
+    },
+    {
+        "servicePointId": "DOCK_107",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "107 - HOSPITAL GARRAHAN",
+        "longitude": -58.395852,
+        "latitude": -34.630374
+    },
+    {
+        "servicePointId": "DOCK_116",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "116 - HOSPITAL ALEMÁN",
+        "longitude": -58.4025894,
+        "latitude": -34.5921708
+    },
+    {
+        "servicePointId": "DOCK_128",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "128 - PARQUE DEL BAJO",
+        "longitude": -58.3689118,
+        "latitude": -34.6041138
+    },
+    {
+        "servicePointId": "DOCK_143",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "143 - BILLINGHURST Y VALENTÍN GOMEZ",
+        "longitude": -58.415807,
+        "latitude": -34.604709
+    },
+    {
+        "servicePointId": "DOCK_149",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "149 - LIMA",
+        "longitude": -58.3813642,
+        "latitude": -34.6153266
+    },
+    {
+        "servicePointId": "DOCK_150",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "150 - VERA PEÑALOZA",
+        "longitude": -58.3631389,
+        "latitude": -34.6181003
+    },
+    {
+        "servicePointId": "DOCK_153",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "153 - JUAN MANUEL DE BLANES",
+        "longitude": -58.3620701,
+        "latitude": -34.6307765
+    },
+    {
+        "servicePointId": "DOCK_382",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "204 - Biarritz",
+        "longitude": -58.477426,
+        "latitude": -34.605452
+    },
+    {
+        "servicePointId": "DOCK_31",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "031 - Padilla",
+        "longitude": -58.4396457,
+        "latitude": -34.6032081
+    },
+    {
+        "servicePointId": "DOCK_379",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "390 - De Los Ombues",
+        "longitude": -58.428163,
+        "latitude": -34.560162
+    },
+    {
+        "servicePointId": "DOCK_376",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "324 - Las Victorias",
+        "longitude": -58.4871352,
+        "latitude": -34.626698
+    },
+    {
+        "servicePointId": "DOCK_179",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "179 - LA BOCA",
+        "longitude": -58.3605313,
+        "latitude": -34.638989
+    },
+    {
+        "servicePointId": "DOCK_373",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "265 - Plaza Exodo Jujeño",
+        "longitude": -58.4810286,
+        "latitude": -34.5824889
+    },
+    {
+        "servicePointId": "DOCK_186",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "186 - MANZANA 66",
+        "longitude": -58.4064415,
+        "latitude": -34.6136356
+    },
+    {
+        "servicePointId": "DOCK_364",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "381 - Matienzo Y Arce",
+        "longitude": -58.434381,
+        "latitude": -34.568722
+    },
+    {
+        "servicePointId": "DOCK_39",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "039 - CONGRESO II",
+        "longitude": -58.3876925,
+        "latitude": -34.6092213
+    },
+    {
+        "servicePointId": "DOCK_240",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "239 - Vidal",
+        "longitude": -58.465559,
+        "latitude": -34.558137
+    },
+    {
+        "servicePointId": "DOCK_361",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "258 - Plaza J.J. Paso",
+        "longitude": -58.453732,
+        "latitude": -34.569147
+    },
+    {
+        "servicePointId": "DOCK_164",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "164 - FACULTAD DE INGENERIA",
+        "longitude": -58.3669021,
+        "latitude": -34.6181442
+    },
+    {
+        "servicePointId": "DOCK_201",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "175 - Esmeralda y Corrientes",
+        "longitude": -58.378167,
+        "latitude": -34.6034449
+    },
+    {
+        "servicePointId": "DOCK_205",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "125 - F.J.Santamaria de Oro",
+        "longitude": -58.4279562,
+        "latitude": -34.5832733
+    },
+    {
+        "servicePointId": "DOCK_355",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "242 - Plazoleta Rafael del Riego",
+        "longitude": -58.4465088,
+        "latitude": -34.5675048
+    },
+    {
+        "servicePointId": "DOCK_45",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "045 - Uruguay",
+        "longitude": -58.3866934,
+        "latitude": -34.6018635
+    },
+    {
+        "servicePointId": "DOCK_217",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "198 - HOSPITAL SARDÁ",
+        "longitude": -58.4042123,
+        "latitude": -34.6342818
+    },
+    {
+        "servicePointId": "DOCK_219",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "140 - Las Casas",
+        "longitude": -58.4157035,
+        "latitude": -34.6351732
+    },
+    {
+        "servicePointId": "DOCK_353",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "237 - Madero Office",
+        "longitude": -58.3647259,
+        "latitude": -34.5986779
+    },
+    {
+        "servicePointId": "DOCK_223",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "178 - José Marmol",
+        "longitude": -58.424895,
+        "latitude": -34.623456
+    },
+    {
+        "servicePointId": "DOCK_343",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "219 - Parque Chacabuco II",
+        "longitude": -58.4411639,
+        "latitude": -34.6357272
+    },
+    {
+        "servicePointId": "DOCK_47",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "047 - Colegio Nacional de Buenos Aires",
+        "longitude": -58.3733149,
+        "latitude": -34.6117408
+    },
+    {
+        "servicePointId": "DOCK_340",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "214 - Flores",
+        "longitude": -58.467329,
+        "latitude": -34.626242
+    },
+    {
+        "servicePointId": "DOCK_239",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "391 - Plaza República de Ecuador",
+        "longitude": -58.4201625,
+        "latitude": -34.5650089
+    },
+    {
+        "servicePointId": "DOCK_249",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "307 - LEONARDO PEREYRA",
+        "longitude": -58.388562,
+        "latitude": -34.649843
+    },
+    {
+        "servicePointId": "DOCK_252",
+        "servicePointType": "DOCK",
+        "numitems": 2,
+        "name": "331 - PLAZA HERRERA",
+        "longitude": -58.3762137,
+        "latitude": -34.6445163
+    },
+    {
+        "servicePointId": "DOCK_5",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "005 - Plaza Italia",
+        "longitude": -58.4209542,
+        "latitude": -34.5805497
+    },
+    {
+        "servicePointId": "DOCK_22",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "022 - Arenales",
+        "longitude": -58.3825498,
+        "latitude": -34.5938629
+    },
+    {
+        "servicePointId": "DOCK_23",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "023 - Suipacha",
+        "longitude": -58.3793463,
+        "latitude": -34.6003095
+    },
+    {
+        "servicePointId": "DOCK_40",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "040 - Sarmiento",
+        "longitude": -58.373499,
+        "latitude": -34.604461
+    },
+    {
+        "servicePointId": "DOCK_64",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "064 - RIOBAMBA",
+        "longitude": -58.3941087,
+        "latitude": -34.5936508
+    },
+    {
+        "servicePointId": "DOCK_77",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "077 - SARANDI",
+        "longitude": -58.3947367,
+        "latitude": -34.6116273
+    },
+    {
+        "servicePointId": "DOCK_92",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "092 - Salcedo",
+        "longitude": -58.4053386,
+        "latitude": -34.6316444
+    },
+    {
+        "servicePointId": "DOCK_93",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "093 - CARLOS CALVO",
+        "longitude": -58.3944635,
+        "latitude": -34.620798
+    },
+    {
+        "servicePointId": "DOCK_99",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "099 - Malabia",
+        "longitude": -58.435408,
+        "latitude": -34.5960961
+    },
+    {
+        "servicePointId": "DOCK_101",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "101 - Fitz Roy",
+        "longitude": -58.4424397,
+        "latitude": -34.5891857
+    },
+    {
+        "servicePointId": "DOCK_106",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "106 - RINCÓN",
+        "longitude": -58.3958827,
+        "latitude": -34.6152509
+    },
+    {
+        "servicePointId": "DOCK_117",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "117 - HUMBERTO 1°",
+        "longitude": -58.3741759,
+        "latitude": -34.6201008
+    },
+    {
+        "servicePointId": "DOCK_118",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "118 - MEXICO",
+        "longitude": -58.4026531,
+        "latitude": -34.6170196
+    },
+    {
+        "servicePointId": "DOCK_130",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "130 - RETIRO II",
+        "longitude": -58.3745419,
+        "latitude": -34.5921056
+    },
+    {
+        "servicePointId": "DOCK_135",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "135 - MARCELO T. DE ALVEAR",
+        "longitude": -58.3787856,
+        "latitude": -34.5972818
+    },
+    {
+        "servicePointId": "DOCK_156",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "156 - Plaza Alemania",
+        "longitude": -58.4074696,
+        "latitude": -34.5775895
+    },
+    {
+        "servicePointId": "DOCK_165",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "165 - PLAZA MONSEÑOR MIGUEL DE ANDREA",
+        "longitude": -58.407614,
+        "latitude": -34.597048
+    },
+    {
+        "servicePointId": "DOCK_171",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "171 - Pasteur",
+        "longitude": -58.3997553,
+        "latitude": -34.6032813
+    },
+    {
+        "servicePointId": "DOCK_180",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "180 - CASTRO Y MEXICO",
+        "longitude": -58.420492,
+        "latitude": -34.619775
+    },
+    {
+        "servicePointId": "DOCK_185",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "185 - AV. PAVÓN Y 33 ORIENTALES",
+        "longitude": -58.42177,
+        "latitude": -34.63133
+    },
+    {
+        "servicePointId": "DOCK_197",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "197 - Quintino Bocayuva",
+        "longitude": -58.4233969,
+        "latitude": -34.613449
+    },
+    {
+        "servicePointId": "DOCK_189",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "189 - POSADAS",
+        "longitude": -58.3852113,
+        "latitude": -34.5886889
+    },
+    {
+        "servicePointId": "DOCK_214",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "142 - Armenia y Gorriti",
+        "longitude": -58.4289624,
+        "latitude": -34.5905808
+    },
+    {
+        "servicePointId": "DOCK_235",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "281 - Villa Urquiza",
+        "longitude": -58.4868051,
+        "latitude": -34.5737764
+    },
+    {
+        "servicePointId": "DOCK_234",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "344 - UNIVERSIDAD DI TELLA",
+        "longitude": -58.4475673,
+        "latitude": -34.5483593
+    },
+    {
+        "servicePointId": "DOCK_241",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "348 - Villa del Parque",
+        "longitude": -58.494123,
+        "latitude": -34.600874
+    },
+    {
+        "servicePointId": "DOCK_253",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "383 - Boedo & Venezuela",
+        "longitude": -58.4167728,
+        "latitude": -34.6172808
+    },
+    {
+        "servicePointId": "DOCK_254",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "276 - PRIMERA JUNTA",
+        "longitude": -58.4415718,
+        "latitude": -34.6206836
+    },
+    {
+        "servicePointId": "DOCK_257",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "264 - Plaza Marcos Sastre",
+        "longitude": -58.481233,
+        "latitude": -34.570829
+    },
+    {
+        "servicePointId": "DOCK_260",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "371 - Paseo de las Americas",
+        "longitude": -58.4381142,
+        "latitude": -34.550961
+    },
+    {
+        "servicePointId": "DOCK_264",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "283 - CNEL. JUAN CRUZ CZETZ",
+        "longitude": -58.4812325,
+        "latitude": -34.5559308
+    },
+    {
+        "servicePointId": "DOCK_273",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "223 - GAINZA",
+        "longitude": -58.4466674,
+        "latitude": -34.61668
+    },
+    {
+        "servicePointId": "DOCK_274",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "369 - Ciudad De La Paz",
+        "longitude": -58.4630428,
+        "latitude": -34.5563511
+    },
+    {
+        "servicePointId": "DOCK_279",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "325 - CASTELLI Y PERON",
+        "longitude": -58.4047854,
+        "latitude": -34.6074177
+    },
+    {
+        "servicePointId": "DOCK_287",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "299 - HIDALGO",
+        "longitude": -58.4409183,
+        "latitude": -34.6103343
+    },
+    {
+        "servicePointId": "DOCK_293",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "294 - Bonifacio",
+        "longitude": -58.4324405,
+        "latitude": -34.6264943
+    },
+    {
+        "servicePointId": "DOCK_323",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "240 - ECHEVERRIA",
+        "longitude": -58.459401,
+        "latitude": -34.565275
+    },
+    {
+        "servicePointId": "DOCK_324",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "280 - JURAMENTO",
+        "longitude": -58.4840556,
+        "latitude": -34.578933
+    },
+    {
+        "servicePointId": "DOCK_326",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "343 - POMAR",
+        "longitude": -58.4202266,
+        "latitude": -34.6411734
+    },
+    {
+        "servicePointId": "DOCK_327",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "341 - TILCARA",
+        "longitude": -58.419928,
+        "latitude": -34.654386
+    },
+    {
+        "servicePointId": "DOCK_328",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "43 - Plaza Houssay",
+        "longitude": -58.397354,
+        "latitude": -34.598549
+    },
+    {
+        "servicePointId": "DOCK_329",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "100 - Plaza Gurruchaga",
+        "longitude": -58.4351681,
+        "latitude": -34.5931053
+    },
+    {
+        "servicePointId": "DOCK_332",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "202 - Nogoya Y Argerich",
+        "longitude": -58.490891,
+        "latitude": -34.602133
+    },
+    {
+        "servicePointId": "DOCK_351",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "235 - Colegiales",
+        "longitude": -58.4520772,
+        "latitude": -34.5717033
+    },
+    {
+        "servicePointId": "DOCK_358",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "249 - Balbín",
+        "longitude": -58.4655255,
+        "latitude": -34.5615465
+    },
+    {
+        "servicePointId": "DOCK_359",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "250 - Fleni",
+        "longitude": -58.4504687,
+        "latitude": -34.555654
+    },
+    {
+        "servicePointId": "DOCK_363",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "354 - Plaza Tupac Amaru",
+        "longitude": -58.46205,
+        "latitude": -34.642052
+    },
+    {
+        "servicePointId": "DOCK_370",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "305 - Plaza Martin Rodriguez",
+        "longitude": -58.500336,
+        "latitude": -34.590964
+    },
+    {
+        "servicePointId": "DOCK_372",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "322 - MARTÍ Y DIRECTORIO",
+        "longitude": -58.470136,
+        "latitude": -34.636406
+    },
+    {
+        "servicePointId": "DOCK_381",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "274 - Plaza Nuestra Señora de la Asuncion",
+        "longitude": -58.4665179,
+        "latitude": -34.6153
+    },
+    {
+        "servicePointId": "DOCK_385",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "268 - Plaza Aristóbulo Del Valle",
+        "longitude": -58.4934192,
+        "latitude": -34.6061187
+    },
+    {
+        "servicePointId": "DOCK_389",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "286 - OEA",
+        "longitude": -58.44024,
+        "latitude": -34.62795
+    },
+    {
+        "servicePointId": "DOCK_397",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "308 - Artigas Y Melincue",
+        "longitude": -58.4856262,
+        "latitude": -34.5979984
+    },
+    {
+        "servicePointId": "DOCK_405",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "318 - Plaza Y Carbajal",
+        "longitude": -58.4689771,
+        "latitude": -34.5767497
+    },
+    {
+        "servicePointId": "DOCK_420",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "375 - Ciudad Universitaria I",
+        "longitude": -58.4390434,
+        "latitude": -34.5440696
+    },
+    {
+        "servicePointId": "DOCK_441",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "016 - Legislatura",
+        "longitude": -58.3749195,
+        "latitude": -34.61001199
+    },
+    {
+        "servicePointId": "DOCK_229",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "243 - PLAZOLETA CELEDONIO FLORES",
+        "longitude": -58.4514575,
+        "latitude": -34.5813811
+    },
+    {
+        "servicePointId": "DOCK_391",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "295 - Larralde",
+        "longitude": -58.4719176,
+        "latitude": -34.5508944
+    },
+    {
+        "servicePointId": "DOCK_429",
+        "servicePointType": "DOCK",
+        "numitems": 3,
+        "name": "201 - PEPIRI",
+        "longitude": -58.4078361,
+        "latitude": -34.6522282
+    },
+    {
+        "servicePointId": "DOCK_265",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "361 - Plaza Don Segundo Sombra",
+        "longitude": -58.450658,
+        "latitude": -34.6418833
+    },
+    {
+        "servicePointId": "DOCK_248",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "346 - Plaza Zapiola",
+        "longitude": -58.4742812,
+        "latitude": -34.5738411
+    },
+    {
+        "servicePointId": "DOCK_227",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "188 - Aranguren",
+        "longitude": -58.4327935,
+        "latitude": -34.6105021
+    },
+    {
+        "servicePointId": "DOCK_225",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "109 - Lerma",
+        "longitude": -58.4295184,
+        "latitude": -34.5968511
+    },
+    {
+        "servicePointId": "DOCK_296",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "293 - PEDERNERA",
+        "longitude": -58.462547,
+        "latitude": -34.632961
+    },
+    {
+        "servicePointId": "DOCK_350",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "234 - Valdenegro",
+        "longitude": -58.4851455,
+        "latitude": -34.567996
+    },
+    {
+        "servicePointId": "DOCK_433",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "273 - Plazoleta Colombia",
+        "longitude": -58.373638,
+        "latitude": -34.637491
+    },
+    {
+        "servicePointId": "DOCK_211",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "195 - Plaza Garay",
+        "longitude": -58.3879696,
+        "latitude": -34.6266267
+    },
+    {
+        "servicePointId": "DOCK_71",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "071 - CERRITO",
+        "longitude": -58.3833559,
+        "latitude": -34.6026673
+    },
+    {
+        "servicePointId": "DOCK_112",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "112 - 9 de Julio",
+        "longitude": -58.380384,
+        "latitude": -34.612075
+    },
+    {
+        "servicePointId": "DOCK_17",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "017 - Plaza Almagro",
+        "longitude": -58.4187306,
+        "latitude": -34.6064101
+    },
+    {
+        "servicePointId": "DOCK_443",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "081 -Balcarce",
+        "longitude": -58.3706184,
+        "latitude": -34.6157533
+    },
+    {
+        "servicePointId": "DOCK_183",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "183 - VIRREY CEVALLOS",
+        "longitude": -58.3899728,
+        "latitude": -34.6156994
+    },
+    {
+        "servicePointId": "DOCK_374",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "367 - Mariano Castex",
+        "longitude": -58.4573968,
+        "latitude": -34.645764
+    },
+    {
+        "servicePointId": "DOCK_181",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "181 - BILLINGHURST Y MANSILLA",
+        "longitude": -58.4120394,
+        "latitude": -34.5927221
+    },
+    {
+        "servicePointId": "DOCK_168",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "168 - Estados Unidos",
+        "longitude": -58.3812271,
+        "latitude": -34.6186217
+    },
+    {
+        "servicePointId": "DOCK_342",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "218 - Campana",
+        "longitude": -58.484297,
+        "latitude": -34.616813
+    },
+    {
+        "servicePointId": "DOCK_444",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "061-Ministerio de Economia",
+        "longitude": -58.3711541,
+        "latitude": -34.6089087
+    },
+    {
+        "servicePointId": "DOCK_448",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "393 - Barrio 31",
+        "longitude": -58.3787309,
+        "latitude": -34.582618
+    },
+    {
+        "servicePointId": "DOCK_386",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "277 - Coghlan",
+        "longitude": -58.475512,
+        "latitude": -34.5656428
+    },
+    {
+        "servicePointId": "DOCK_138",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "138 - Hospital Britanico",
+        "longitude": -58.3876724,
+        "latitude": -34.6353595
+    },
+    {
+        "servicePointId": "DOCK_390",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "288- 11 de septiembre",
+        "longitude": -58.459881,
+        "latitude": -34.547758
+    },
+    {
+        "servicePointId": "DOCK_395",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "303 - Huaura",
+        "longitude": -58.4535687,
+        "latitude": -34.5968038
+    },
+    {
+        "servicePointId": "DOCK_132",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "132 - CORRIENTES",
+        "longitude": -58.372763,
+        "latitude": -34.6033685
+    },
+    {
+        "servicePointId": "DOCK_120",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "120 - HOSPITAL RAMOS MEJIA",
+        "longitude": -58.4092876,
+        "latitude": -34.617509
+    },
+    {
+        "servicePointId": "DOCK_399",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "312 - Parque Chacabuco  I",
+        "longitude": -58.446273,
+        "latitude": -34.6340414
+    },
+    {
+        "servicePointId": "DOCK_95",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "095 - ESMERALDA",
+        "longitude": -58.3781678,
+        "latitude": -34.6021121
+    },
+    {
+        "servicePointId": "DOCK_409",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "339 - AMANCIO ALCORTA",
+        "longitude": -58.412878,
+        "latitude": -34.654801
+    },
+    {
+        "servicePointId": "DOCK_416",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "257 - Plaza Francisco Ramirez",
+        "longitude": -58.469072,
+        "latitude": -34.5532664
+    },
+    {
+        "servicePointId": "DOCK_80",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "080 - DOBLAS",
+        "longitude": -58.4303766,
+        "latitude": -34.624435
+    },
+    {
+        "servicePointId": "DOCK_280",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "222 - SIMON BOLIVAR",
+        "longitude": -58.4494755,
+        "latitude": -34.6333113
+    },
+    {
+        "servicePointId": "DOCK_236",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "254 - Plaza Rafael Hernandez",
+        "longitude": -58.4550484,
+        "latitude": -34.5623422
+    },
+    {
+        "servicePointId": "DOCK_305",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "398 - Rojas",
+        "longitude": -58.44487,
+        "latitude": -34.612684
+    },
+    {
+        "servicePointId": "DOCK_285",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "400 - Reserva Ecologica",
+        "longitude": -58.3561752,
+        "latitude": -34.6172122
+    },
+    {
+        "servicePointId": "DOCK_284",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "229 - RIGLOS",
+        "longitude": -58.4350943,
+        "latitude": -34.6311092
+    },
+    {
+        "servicePointId": "DOCK_314",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "212 - SOR JUANA",
+        "longitude": -58.4602399,
+        "latitude": -34.61047
+    },
+    {
+        "servicePointId": "DOCK_276",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "296 - FREIRE",
+        "longitude": -58.4699652,
+        "latitude": -34.559476
+    },
+    {
+        "servicePointId": "DOCK_422",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "377 - Ciudad Universitaria III",
+        "longitude": -58.4442786,
+        "latitude": -34.5409892
+    },
+    {
+        "servicePointId": "DOCK_266",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "379 - BERG",
+        "longitude": -58.4287202,
+        "latitude": -34.6601336
+    },
+    {
+        "servicePointId": "DOCK_66",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "066 - Billinghurst",
+        "longitude": -58.4138713,
+        "latitude": -34.5945475
+    },
+    {
+        "servicePointId": "DOCK_59",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "018 - Independencia",
+        "longitude": -58.3804546,
+        "latitude": -34.617771
+    },
+    {
+        "servicePointId": "DOCK_56",
+        "servicePointType": "DOCK",
+        "numitems": 4,
+        "name": "056 - Plaza Palermo Viejo",
+        "longitude": -58.425999,
+        "latitude": -34.588567
+    },
+    {
+        "servicePointId": "DOCK_48",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "034 - Colonia Express",
+        "longitude": -58.362004,
+        "latitude": -34.623937
+    },
+    {
+        "servicePointId": "DOCK_336",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "207 - PLAZA ARENALES",
+        "longitude": -58.5114159,
+        "latitude": -34.5999173
+    },
+    {
+        "servicePointId": "DOCK_256",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "209 - PAYSANDU",
+        "longitude": -58.454304,
+        "latitude": -34.610398
+    },
+    {
+        "servicePointId": "DOCK_238",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "217 - Cachimayo",
+        "longitude": -58.4367011,
+        "latitude": -34.6365814
+    },
+    {
+        "servicePointId": "DOCK_228",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "010 - Madero UCA",
+        "longitude": -58.3657444,
+        "latitude": -34.6162819
+    },
+    {
+        "servicePointId": "DOCK_299",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "221 - CULPINA",
+        "longitude": -58.466293,
+        "latitude": -34.631486
+    },
+    {
+        "servicePointId": "DOCK_152",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "152 - JULIETA LANTERI",
+        "longitude": -58.3596311,
+        "latitude": -34.6181645
+    },
+    {
+        "servicePointId": "DOCK_210",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "335 - General Urquiza",
+        "longitude": -58.4113228,
+        "latitude": -34.572132
+    },
+    {
+        "servicePointId": "DOCK_431",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "362 - PARQUE DE LA MEMORIA",
+        "longitude": -58.4361167,
+        "latitude": -34.5430055
+    },
+    {
+        "servicePointId": "DOCK_33",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "033 - Facultad de Medicina",
+        "longitude": -58.3989807,
+        "latitude": -34.5970909
+    },
+    {
+        "servicePointId": "DOCK_32",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "032 - Catedral",
+        "longitude": -58.3735984,
+        "latitude": -34.6072074
+    },
+    {
+        "servicePointId": "DOCK_371",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "269 - Plaza De La Misericordia",
+        "longitude": -58.455058,
+        "latitude": -34.63281
+    },
+    {
+        "servicePointId": "DOCK_268",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "399 - GARCIA DEL RIO",
+        "longitude": -58.4764172,
+        "latitude": -34.550293
+    },
+    {
+        "servicePointId": "DOCK_412",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "372 - Villa Soldati",
+        "longitude": -58.4411434,
+        "latitude": -34.6626285
+    },
+    {
+        "servicePointId": "DOCK_307",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "358 - Plaza Almirante Brown",
+        "longitude": -58.365323,
+        "latitude": -34.6451626
+    },
+    {
+        "servicePointId": "DOCK_83",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "083 - Paraná",
+        "longitude": -58.3893728,
+        "latitude": -34.603269
+    },
+    {
+        "servicePointId": "DOCK_163",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "163 - ONCE II",
+        "longitude": -58.4064308,
+        "latitude": -34.6095663
+    },
+    {
+        "servicePointId": "DOCK_24",
+        "servicePointType": "DOCK",
+        "numitems": 5,
+        "name": "024 - ALSINA",
+        "longitude": -58.3808943,
+        "latitude": -34.610583
+    },
+    {
+        "servicePointId": "DOCK_362",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "262 - Holmberg",
+        "longitude": -58.479108,
+        "latitude": -34.566746
+    },
+    {
+        "servicePointId": "DOCK_232",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "252 - Tamborini",
+        "longitude": -58.4788904,
+        "latitude": -34.5599395
+    },
+    {
+        "servicePointId": "DOCK_173",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "173 - PLAZA CECILIA GRIERSON",
+        "longitude": -58.3751607,
+        "latitude": -34.6222964
+    },
+    {
+        "servicePointId": "DOCK_286",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "284 - BONIFACIO Y CARABOBO",
+        "longitude": -58.4551112,
+        "latitude": -34.6304712
+    },
+    {
+        "servicePointId": "DOCK_435",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "227 -Club Ciudad de Buenos Aires",
+        "longitude": -58.4595541,
+        "latitude": -34.5445971
+    },
+    {
+        "servicePointId": "DOCK_408",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "337 - UTN",
+        "longitude": -58.4683699,
+        "latitude": -34.6600076
+    },
+    {
+        "servicePointId": "DOCK_302",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "340 - PLAZA NUEVA POMPEYA",
+        "longitude": -58.415423,
+        "latitude": -34.651955
+    },
+    {
+        "servicePointId": "DOCK_335",
+        "servicePointType": "DOCK",
+        "numitems": 6,
+        "name": "206 - Galicia",
+        "longitude": -58.470907,
+        "latitude": -34.615852
+    },
+    {
+        "servicePointId": "DOCK_86",
+        "servicePointType": "DOCK",
+        "numitems": 7,
+        "name": "086 - SAAVEDRA",
+        "longitude": -58.4016808,
+        "latitude": -34.6212681
+    },
+    {
+        "servicePointId": "DOCK_288",
+        "servicePointType": "DOCK",
+        "numitems": 7,
+        "name": "333 - MIRO",
+        "longitude": -58.4429517,
+        "latitude": -34.6404886
+    },
+    {
+        "servicePointId": "DOCK_193",
+        "servicePointType": "DOCK",
+        "numitems": 7,
+        "name": "193 - ARENALES Y AGUERO",
+        "longitude": -58.4061652,
+        "latitude": -34.5908626
+    },
+    {
+        "servicePointId": "DOCK_187",
+        "servicePointType": "DOCK",
+        "numitems": 7,
+        "name": "261 - QUINTEROS LIDORO",
+        "longitude": -58.450854,
+        "latitude": -34.5528626
+    },
+    {
+        "servicePointId": "DOCK_300",
+        "servicePointType": "DOCK",
+        "numitems": 7,
+        "name": "321 - PERITO MORENO",
+        "longitude": -58.431683,
+        "latitude": -34.649215
+    },
+    {
+        "servicePointId": "DOCK_75",
+        "servicePointType": "DOCK",
+        "numitems": 7,
+        "name": "075 - Plaza Primero de Mayo",
+        "longitude": -58.3989871,
+        "latitude": -34.6122976
+    },
+    {
+        "servicePointId": "DOCK_91",
+        "servicePointType": "DOCK",
+        "numitems": 7,
+        "name": "091 - Pasco",
+        "longitude": -58.397602,
+        "latitude": -34.6174482
+    },
+    {
+        "servicePointId": "DOCK_392",
+        "servicePointType": "DOCK",
+        "numitems": 8,
+        "name": "297 - TRONADOR Y GARCÍA DEL RÍO",
+        "longitude": -58.485419,
+        "latitude": -34.554754
+    },
+    {
+        "servicePointId": "DOCK_278",
+        "servicePointType": "DOCK",
+        "numitems": 8,
+        "name": "233 - MONROE",
+        "longitude": -58.469789,
+        "latitude": -34.564083
+    },
+    {
+        "servicePointId": "DOCK_449",
+        "servicePointType": "DOCK",
+        "numitems": 9,
+        "name": "352 - San Jose de Flores",
+        "longitude": -58.4636606,
+        "latitude": -34.6289374
+    },
+    {
+        "servicePointId": "DOCK_221",
+        "servicePointType": "DOCK",
+        "numitems": 9,
+        "name": "157 - Senillosa y Zuviria",
+        "longitude": -58.4274042,
+        "latitude": -34.6280441
+    },
+    {
+        "servicePointId": "DOCK_188",
+        "servicePointType": "DOCK",
+        "numitems": 10,
+        "name": "373 - Jorgelina De Simone",
+        "longitude": -58.3904814,
+        "latitude": -34.623923
+    },
+    {
+        "servicePointId": "DOCK_419",
+        "servicePointType": "DOCK",
+        "numitems": 10,
+        "name": "359 - Plaza Balcarce",
+        "longitude": -58.467851,
+        "latitude": -34.547673
+    },
+    {
+        "servicePointId": "DOCK_175",
+        "servicePointType": "DOCK",
+        "numitems": 12,
+        "name": "147 - Constitución",
+        "longitude": -58.3809349,
+        "latitude": -34.6267408
+    },
+    {
+        "servicePointId": "DOCK_155",
+        "servicePointType": "DOCK",
+        "numitems": 13,
+        "name": "155 - Parque José Evaristo Uriburu",
+        "longitude": -58.4125606,
+        "latitude": -34.6409617
+    },
+    {
+        "servicePointId": "DOCK_301",
+        "servicePointType": "DOCK",
+        "numitems": 13,
+        "name": "309 - HOMERO MANZI",
+        "longitude": -58.431785,
+        "latitude": -34.644841
+    }
+]
