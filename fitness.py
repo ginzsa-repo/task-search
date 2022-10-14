@@ -17,7 +17,7 @@ def job_fitness(config, distances, jobs_seq, team):
    
     total_travel_time = calculate_total_time_in_seconds(distances, jobs_seq, team)
 
-    bike_weight = config['bike_weight']
+    item_weight = config['item_weight']
     time_weight = config['time_weight']
 
-    return (items * bike_weight) - (total_travel_time * time_weight)
+    return (items * item_weight) - (total_travel_time * time_weight)

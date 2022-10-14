@@ -17,7 +17,7 @@ class TestFitness(unittest.TestCase):
         matrix = load_distances_matrix()
         team = get_team()
         distances = Distances(distances=matrix)
-        config = {'tabu_size': 4, 'iterations': 10, 'bike_weight':10_000, 'time_weight': 1}
+        config = {'tabu_size': 4, 'iterations': 10, 'item_weight':10_000, 'time_weight': 1}
 
         # when validate distances for vehicle jobs
         jobs = [('DOCK_134', 1), ('DOCK_280', 4), ('DOCK_399', 4), ('DOCK_301', 13), ('DOCK_155', 13)]
@@ -34,7 +34,7 @@ class TestFitness(unittest.TestCase):
         matrix = load_distances_matrix()
         team = get_team()
         distances = Distances(distances=matrix)
-        config = {'tabu_size': 4, 'iterations': 10, 'bike_weight':10_000, 'time_weight': 1}
+        config = {'tabu_size': 4, 'iterations': 10, 'item_weight':10_000, 'time_weight': 1}
 
         # when validate distances for vehicle jobs
         jobs = [('DOCK_280', 4), ('DOCK_399', 4), ('DOCK_301', 13), ('DOCK_155', 13)]
@@ -50,7 +50,7 @@ class TestFitness(unittest.TestCase):
         matrix = load_distances_matrix()
         team = get_team()
         distances = Distances(distances=matrix)
-        config = {'tabu_size': 4, 'iterations': 10, 'bike_weight':10_000, 'time_weight': 1}
+        config = {'tabu_size': 4, 'iterations': 10, 'item_weight':10_000, 'time_weight': 1}
 
         # when validate distances for vehicle jobs
         jobs = [('DOCK_11', 1), ('DOCK_280', 4), ('DOCK_399', 4), ('DOCK_301', 13), ('DOCK_155', 13)]

@@ -83,7 +83,7 @@ class TestOptimizer(unittest.TestCase):
 def create_optimizer():
     jobs, depos = load_broken_items()
     matrix = load_distances_matrix()
-    config = {'tabu_size': 4, 'iterations': 10, 'bike_weight':10_000, 'time_weight': 1}
+    config = {'tabu_size': 4, 'iterations': 10, 'item_weight':10_000, 'time_weight': 1}
     teams = [get_team()]
 
     return Optimizer(jobs=jobs, matrix=matrix, config=config, teams=teams, depos=depos)
